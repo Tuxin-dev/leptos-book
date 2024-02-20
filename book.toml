@@ -8,3 +8,6 @@ runnable = false
 [preprocessor.admonish]
 command = "mdbook-admonish"
 assets_version = "3.0.1" # do not edit: managed by `mdbook-admonish install`
+
+[preprocessor.gettext]
+after = ["links"]
