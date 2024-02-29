@@ -2,239 +2,241 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2024-02-19T14:40:50+01:00\n"
-"PO-Revision-Date: 2024-02-19 14:51+0100\n"
-"Last-Translator: Jean-Pierre <tuxin@free.fr>\n"
+"PO-Revision-Date: 2024-02-28 17:27+0100\n"
+"Last-Translator: Tuxin <tuxin@free.fr>\n"
 "Language-Team: French\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: fr\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 2.3\n"
 
 #: src/SUMMARY.md:1
 msgid "Summary"
-msgstr ""
+msgstr "Sommaire"
 
 #: src/SUMMARY.md:3 src/01_introduction.md:1
 msgid "Introduction"
-msgstr ""
+msgstr "Introduction"
 
 #: src/SUMMARY.md:4 src/getting_started/index.md:1 src/router/16_routes.md:3
 msgid "Getting Started"
-msgstr ""
+msgstr "Commencer"
 
 #: src/SUMMARY.md:5
 msgid "Leptos DX"
-msgstr ""
+msgstr "Expérience Développeur Leptos"
 
 #: src/SUMMARY.md:6
 msgid "The Leptos Community and leptos-\\* Crates"
-msgstr ""
+msgstr "La communauté Leptos et les crates leptos-*"
 
 #: src/SUMMARY.md:7 src/view/index.md:1
 msgid "Part 1: Building User Interfaces"
-msgstr ""
+msgstr "Partie 1 : Création d'interfaces utilisateur"
 
 #: src/SUMMARY.md:8 src/view/01_basic_component.md:1
 msgid "A Basic Component"
-msgstr ""
+msgstr "Un composant essentiel"
 
 #: src/SUMMARY.md:9 src/view/02_dynamic_attributes.md:109
 msgid "Dynamic Attributes"
-msgstr ""
+msgstr "Les attributs dynamiques"
 
 #: src/SUMMARY.md:10 src/view/03_components.md:1
 msgid "Components and Props"
-msgstr ""
+msgstr "Composants et propriétés"
 
 #: src/SUMMARY.md:11 src/view/04_iteration.md:1
 msgid "Iteration"
-msgstr ""
+msgstr "Itération"
 
 #: src/SUMMARY.md:12
 msgid "Iterating over More Complex Data"
-msgstr ""
+msgstr "Itération sur des données plus complexes"
 
 #: src/SUMMARY.md:13 src/view/05_forms.md:1
 msgid "Forms and Inputs"
-msgstr ""
+msgstr "Formulaires et zones de saisie"
 
 #: src/SUMMARY.md:14 src/view/06_control_flow.md:1
 msgid "Control Flow"
-msgstr ""
+msgstr "Le flux de contrôle"
 
 #: src/SUMMARY.md:15 src/view/07_errors.md:1
 msgid "Error Handling"
-msgstr ""
+msgstr "Gestion des erreurs"
 
 #: src/SUMMARY.md:16 src/view/08_parent_child.md:1
 msgid "Parent-Child Communication"
-msgstr ""
+msgstr "Communication Parent-Enfant"
 
 #: src/SUMMARY.md:17
 msgid "Passing Children to Components"
-msgstr ""
+msgstr "Transmettre les enfants aux composants"
 
 #: src/SUMMARY.md:18 src/view/builder.md:1
 msgid "No Macros: The View Builder Syntax"
-msgstr ""
+msgstr "Pas de macros : La syntaxe du constructeur de vues"
 
 #: src/SUMMARY.md:19 src/reactivity/index.md:1
 msgid "Reactivity"
-msgstr ""
+msgstr "Réactivité"
 
 #: src/SUMMARY.md:20 src/reactivity/working_with_signals.md:1
 msgid "Working with Signals"
-msgstr ""
+msgstr "Utiliser les signaux"
 
 #: src/SUMMARY.md:21 src/reactivity/14_create_effect.md:1
 msgid "Responding to Changes with `create_effect`"
-msgstr ""
+msgstr "Répondre aux changements avec `create_effect`"
 
 #: src/SUMMARY.md:22 src/reactivity/interlude_functions.md:1
 msgid "Interlude: Reactivity and Functions"
-msgstr ""
+msgstr "Intermède : Réactivité et Fonctions"
 
 #: src/SUMMARY.md:23
 msgid "Testing"
-msgstr ""
+msgstr "Tests"
 
 #: src/SUMMARY.md:24
 msgid "Async"
-msgstr ""
+msgstr "Async"
 
 #: src/SUMMARY.md:25 src/async/10_resources.md:1
 msgid "Loading Data with Resources"
-msgstr ""
+msgstr "Chargement de données avec des ressources"
 
 #: src/SUMMARY.md:26
 msgid "Suspense"
-msgstr ""
+msgstr "Suspense"
 
 #: src/SUMMARY.md:27
 msgid "Transition"
-msgstr ""
+msgstr "Transition"
 
 #: src/SUMMARY.md:28
 msgid "Actions"
-msgstr ""
+msgstr "Les Actions"
 
 #: src/SUMMARY.md:29
 msgid "Interlude: Projecting Children"
-msgstr ""
+msgstr "Intermède : La projection des enfants"
 
 #: src/SUMMARY.md:30 src/15_global_state.md:1
 msgid "Global State Management"
-msgstr ""
+msgstr "Gestion de l'État global"
 
 #: src/SUMMARY.md:31
 msgid "Router"
-msgstr ""
+msgstr "Le Routeur"
 
 #: src/SUMMARY.md:32 src/router/16_routes.md:53
 msgid "Defining `<Routes/>`"
-msgstr ""
+msgstr "Définition de  `<Routes/>`"
 
 #: src/SUMMARY.md:33 src/router/17_nested_routing.md:1
 msgid "Nested Routing"
-msgstr ""
+msgstr "Routage imbriqué"
 
 #: src/SUMMARY.md:34 src/router/18_params_and_queries.md:1
 msgid "Params and Queries"
-msgstr ""
+msgstr "Paramètres et requêtes"
 
 #: src/SUMMARY.md:35
 msgid "`<A/>`"
-msgstr ""
+msgstr "`<A/>`"
 
 #: src/SUMMARY.md:36
 msgid "`<Form/>`"
-msgstr ""
+msgstr "`<Form/>`"
 
 #: src/SUMMARY.md:37 src/interlude_styling.md:1
 msgid "Interlude: Styling"
-msgstr ""
+msgstr "Intermède: Style"
 
 #: src/SUMMARY.md:38 src/metadata.md:1
 msgid "Metadata"
-msgstr ""
+msgstr "Métadata"
 
 #: src/SUMMARY.md:39
 msgid ""
 "Integrating with JavaScript: `wasm-bindgen`, `web_sys`, and `HtmlElement`"
 msgstr ""
+"Intégration avec JavaScript : `wasm-bindgen`, `web_sys`, et `HtmlElement`"
 
 #: src/SUMMARY.md:40
 msgid "Client-Side Rendering: Wrapping Up"
-msgstr ""
+msgstr "Rendu côté client : Conclusion"
 
 #: src/SUMMARY.md:41 src/ssr/index.md:1
 msgid "Part 2: Server Side Rendering"
-msgstr ""
+msgstr "Partie 2: Rendu côté serveur"
 
 #: src/SUMMARY.md:42
 msgid "`cargo-leptos`"
-msgstr ""
+msgstr "`cargo-leptos`"
 
 #: src/SUMMARY.md:43 src/ssr/22_life_cycle.md:1
 msgid "The Life of a Page Load"
-msgstr ""
+msgstr "Le cycle de vie du chargement d'une page"
 
 #: src/SUMMARY.md:44 src/ssr/23_ssr_modes.md:1
 msgid "Async Rendering and SSR “Modes”"
-msgstr ""
+msgstr "Rendu d'un Async et “Modes” SSR"
 
 #: src/SUMMARY.md:45
 msgid "Hydration Bugs"
-msgstr ""
+msgstr "Les bugs de l'hydratation"
 
 #: src/SUMMARY.md:46 src/server/index.md:1
 msgid "Working with the Server"
-msgstr ""
+msgstr "Utilisation du serveur"
 
 #: src/SUMMARY.md:47 src/server/25_server_functions.md:1
 msgid "Server Functions"
-msgstr ""
+msgstr "Les fonctions du serveur"
 
 #: src/SUMMARY.md:48 src/server/26_extractors.md:1
 msgid "Extractors"
-msgstr ""
+msgstr "Les extracteurs"
 
 #: src/SUMMARY.md:49 src/server/27_response.md:1
 msgid "Responses and Redirects"
-msgstr ""
+msgstr "Réponses et redirections"
 
 #: src/SUMMARY.md:50
 msgid "Progressive Enhancement and Graceful Degradation"
-msgstr ""
+msgstr "Amélioration progressive et dégradation gracieuse"
 
 #: src/SUMMARY.md:51
 msgid "`<ActionForm/>`s"
-msgstr ""
+msgstr "Les `<ActionForm/>`"
 
 #: src/SUMMARY.md:52 src/deployment/index.md:1
 msgid "Deployment"
-msgstr ""
+msgstr "Déploiement"
 
 #: src/SUMMARY.md:53
 msgid "Deploying CSR Apps"
-msgstr ""
+msgstr "Déploiement des Applications CSR"
 
 #: src/SUMMARY.md:54
 msgid "Deploying SSR Apps"
-msgstr ""
+msgstr "Déploiement des Applications SSR"
 
 #: src/SUMMARY.md:55 src/deployment/binary_size.md:1
 msgid "Optimizing WASM Binary Size"
-msgstr ""
+msgstr "Optimiser la taille d'un binaire WASM"
 
 #: src/SUMMARY.md:56 src/islands.md:1
 msgid "Guide: Islands"
-msgstr ""
+msgstr "Guide: 'Islands'"
 
 #: src/SUMMARY.md:58
 msgid "Appendix: How Does the Reactive System Work?"
-msgstr ""
+msgstr "Annexe : Comment fonctionne le système réactif ?"
 
 #: src/01_introduction.md:3
 msgid ""
@@ -244,6 +246,12 @@ msgid ""
 "rendered in the browser, and building toward a full-stack application with "
 "server-side rendering and hydration."
 msgstr ""
+"Ce livre est une introduction au framework Web [Leptos](https://github.com/"
+"leptos-rs/leptos). Il aborde les concepts fondamentaux nécessaires pour "
+"créer des applications, en commençant par une application simple, dont le "
+"rendu s'effectuera dans un navigateur, et en progressant vers une "
+"application full-stack dont le rendu et l'hydratation s'effectueront côté "
+"serveur."
 
 #: src/01_introduction.md:8
 msgid ""
@@ -251,6 +259,10 @@ msgid ""
 "the details of modern Web frameworks. It does assume you are familiar with "
 "the Rust programming language, HTML, CSS, and the DOM and basic Web APIs."
 msgstr ""
+"Ce guide ne présume aucunement que vous connaissiez quoi que ce soit sur la "
+"réactivité affinée ou sur les détails des frameworks Web modernes. En "
+"revanche, il suppose que vous êtes familier avec le langage de programmation "
+"Rust, le HTML, le CSS, le DOM, et les API Web de base."
 
 #: src/01_introduction.md:12
 msgid ""
@@ -260,22 +272,33 @@ msgid ""
 "(JavaScript), Yew (Rust), and Dioxus (Rust), so knowledge of one of those "
 "frameworks may also make it easier to understand Leptos."
 msgstr ""
+"Leptos est très similaire aux frameworks tels que [Solid](https://www."
+"solidjs.com) (Javascript) et [Sycamore](https://sycamore-rs.netlify.app/) "
+"(Rust). Il possède quelques similitudes avec d'autres frameworks comme React "
+"(JavaScript), Svelte (JavaScript), Yew (Rust) et Dioxus (Rust), de sorte que "
+"la connaissance d'un de ces frameworks pourra aussi faciliter la "
+"compréhension de Leptos."
 
 #: src/01_introduction.md:18
 msgid ""
 "You can find more detailed docs for each part of the API at [Docs.rs]"
 "(https://docs.rs/leptos/latest/leptos/)."
 msgstr ""
+"Une documentation plus détaillée pour chaque partie de l'API est disponible "
+"sur la page [Docs.rs](https://docs.rs/leptos/latest/leptos/)."
 
 #: src/01_introduction.md:20
 msgid ""
 "The source code for the book is available [here](https://github.com/leptos-"
 "rs/book). PRs for typos or clarification are always welcome."
 msgstr ""
+"Le code source de ce livre est disponible [ici](https://github.com/leptos-rs/"
+"book). Les Pull Requests concernant les fautes de frappe ou une "
+"clarification sont toujours les bienvenus."
 
 #: src/getting_started/index.md:3
 msgid "There are two basic paths to getting started with Leptos:"
-msgstr ""
+msgstr "Il y a deux façons de commencer avec Leptos :"
 
 #: src/getting_started/index.md:5
 msgid ""
@@ -294,6 +317,23 @@ msgid ""
 "device for your CSR app to display properly. As with all software "
 "engineering, there are trade-offs here you'll need to consider."
 msgstr ""
+"**Rendu côté client (CSR) avec [Trunk](https://trunkrs.dev/)** - une "
+"excellente option si vous voulez simplement faire un site Web rapide avec "
+"Leptos, ou travailler sur un serveur ou une API préexistante. En mode CSR, "
+"Trunk compile votre application Leptos pour WebAssembly (WASM) et l'exécute "
+"dans le navigateur comme une application JavaScript monopage (SPA) typique. "
+"Les avantages de Leptos CSR incluent des temps de compilation et un cycle de "
+"développement itératif plus rapides, ainsi qu'un modèle mental plus simple "
+"et plus d'options pour déployer votre application. Les applications CSR "
+"possèdent quelques inconvénients : les temps de chargement initiaux pour les "
+"utilisateurs finaux sont plus lents par rapport à une approche de rendu côté "
+"serveur, et les habituels défis SEO qui accompagnent l'utilisation d'un "
+"modèle d'application JS monopage s'appliquent aussi aux applications CSR de "
+"Leptos. Notez également que, sous le capot, un extrait de JS auto-généré est "
+"utilisé pour charger le bundle WASM de Leptos, de sorte que JS _doit_ être "
+"activé sur l'appareil client pour que votre application CSR s'affiche "
+"correctement. Comme pour toute ingénierie logicielle, il y a des compromis "
+"que vous devrez prendre en compte."
 
 #: src/getting_started/index.md:8
 msgid ""
@@ -318,6 +358,31 @@ msgid ""
 "both the server and client when making Rust code changes), as well as some "
 "added complexity that comes along with hydration."
 msgstr ""
+"**Full-stack, rendu côté serveur (SSR) avec [`cargo-leptos`](https://github."
+"com/leptos-rs/cargo-leptos)** - Le SSR est une excellente option pour créer "
+"des sites Web de style CRUD et des applications Web personnalisées si vous "
+"voulez que Rust alimente à la fois votre frontend et votre backend. Avec "
+"l'option SSR de Leptos, le rendu de votre application en HTML est effectuée "
+"sur le serveur, puis envoyée au navigateur; ensuite, WebAssembly est utilisé "
+"pour arranger le HTML afin que votre application devienne interactive - ce "
+"processus est appelé «hydratation». Côté serveur, les applications Leptos "
+"SSR s'intègrent étroitement avec votre choix de bibliothèques serveurs "
+"[Actix-web](https://docs.rs/leptos_actix/latest/leptos_actix/index.html) ou "
+"[Axum](https://docs.rs/leptos_axum/latest/leptos_axum/index.html), de sorte "
+"que vous puissiez tirer parti des crates de ces communautés pour vous aider "
+"à créer votre serveur Leptos. Les avantages de l'utilisation du SSR avec "
+"Leptos incluent l'obtention des meilleurs temps de chargement initiaux, et "
+"des scores de référencement optimaux pour votre application Web. Les "
+"applications SSR peuvent également simplifier considérablement le travail à "
+"travers la frontière serveur/client, grâce à une fonctionnalité de Leptos "
+"appelée \"fonctions serveur\". Elle vous permet d'appeler de manière "
+"transparente les fonctions présentes sur le serveur, à partir de votre code "
+"client (nous reviendrons sur cette fonctionnalité plus tard). Cependant, le "
+"full-stack SSR n'est pas tout rose - les inconvénients comprennent une "
+"boucle d'itération pour le développeur plus lente (parce que vous devez "
+"recompiler à la fois le serveur et le client lorsque vous apportez des "
+"modifications au code Rust), ainsi qu'une certaine complexité supplémentaire "
+"amenée avec l'hydratation."
 
 #: src/getting_started/index.md:12
 msgid ""
@@ -325,6 +390,9 @@ msgid ""
 "make and which route to take - CSR or SSR - depending on your project's "
 "requirements."
 msgstr ""
+"À la fin du livre, vous devriez avoir une bonne idée des compromis à faire "
+"et de la voie à suivre - CSR ou SSR - en fonction des exigences de votre "
+"projet."
 
 #: src/getting_started/index.md:15
 msgid ""
@@ -332,12 +400,18 @@ msgid ""
 "and building reactive UI's using `Trunk` to serve our JS and WASM bundle to "
 "the browser."
 msgstr ""
+"Dans la partie 1 de ce livre, nous commencerons par le rendu côté client des "
+"sites Leptos, ainsi que la construction d'interfaces utilisateur réactives, "
+"en utilisant `Trunk` pour fournir notre pack JS et Wasm au navigateur."
 
 #: src/getting_started/index.md:17
 msgid ""
 "We’ll introduce `cargo-leptos` in Part 2 of this book, which is all about "
 "working with the full power of Leptos in its full-stack, SSR mode."
 msgstr ""
+"Nous présenterons `cargo-leptos` dans la deuxième partie de ce livre, qui "
+"traite de l'utilisation de toute la puissance de Leptos en full-stack, dans "
+"son mode SSR."
 
 #: src/getting_started/index.md:19
 msgid ""
@@ -364,35 +438,69 @@ msgid ""
 "\n"
 "```"
 msgstr ""
+"```Avertissement\n"
+"Si vous venez du monde Javascript et que des termes comme le rendu côté "
+"client (CSR) et le rendu côté serveur (SSR) ne vous sont pas familiers, la "
+"façon la plus simple de comprendre la différence est par analogie :\n"
+"\n"
+"Le mode CSR de Leptos est similaire au fonctionnement de React (ou d'un "
+"framework basé sur les signaux comme SolidJS), et se concentre sur la "
+"production d'une interface utilisateur côté client que vous pouvez utiliser "
+"avec n'importe quelle pile technologique sur le serveur.\n"
+"\n"
+"L'utilisation du mode SSR de Leptos est similaire au fonctionnement d'un "
+"framework full-stack comme Next.js dans le monde React (ou le framework "
+"\"SolidStart\" de Solid) - SSR vous aide à construire des sites et des "
+"applications qui sont rendus sur le serveur puis envoyés au client. SSR peut "
+"aider à améliorer les performances de chargement et l'accessibilité de votre "
+"site, ainsi qu'à faciliter le travail d'une personne sur le client et le "
+"serveur sans qu'elle ait besoin de changer de langage pour le frontend et le "
+"backend.\n"
+"\n"
+"Le framework Leptos peut être utilisé soit en mode CSR pour créer une "
+"interface utilisateur (comme React), soit en mode SSR (comme Next.js) pour "
+"construire l'interface utilisateur et le serveur avec un seul langage : "
+"Rust.\n"
+"\n"
+"```"
 
 #: src/getting_started/index.md:30
 msgid "Hello World! Getting Set up for Leptos CSR Development"
-msgstr ""
+msgstr "Hello World! Mise en place du développement Leptos CSR"
 
 #: src/getting_started/index.md:32
 msgid ""
 "First up, make sure Rust is installed and up-to-date ([see here if you need "
 "instructions](https://www.rust-lang.org/tools/install))."
 msgstr ""
+"Tout d'abord, assurez-vous que Rust est installé et à jour ([voir ici si "
+"vous avez besoin d'instructions](https://www.rust-lang.org/tools/install))."
 
 #: src/getting_started/index.md:34
 msgid ""
 "If you don’t have it installed already, you can install the \"Trunk\" tool "
 "for running Leptos CSR sites by running the following on the command-line:"
 msgstr ""
+"Si vous n'avez pas encore installé l'outil \"Trunk\", vous pouvez "
+"l'installer, afin de gérer les sites CSR de Leptos, en exécutant ce qui suit "
+"sur la ligne de commande :"
 
 #: src/getting_started/index.md:40
 msgid "And then create a basic Rust project"
-msgstr ""
+msgstr "Ensuite, créez un projet Rust de base"
 
 #: src/getting_started/index.md:46
 msgid ""
 "`cd` into your new `leptos-tutorial` project and add `leptos` as a dependency"
 msgstr ""
+"`cd` dans votre nouveau projet `leptos-tutorial` et ajoutez `leptos` comme "
+"dépendance"
 
 #: src/getting_started/index.md:52
 msgid "Or you can leave off `nightly` if you're using stable Rust"
 msgstr ""
+"Vous pouvez aussi ne pas utiliser `nightly` si vous utilisez la version "
+"stable de Rust"
 
 #: src/getting_started/index.md:58
 msgid ""
@@ -400,22 +508,29 @@ msgid ""
 "function-call syntax for signal getters and setters that is used in most of "
 "this book."
 msgstr ""
+"Utiliser `nightly` Rust, et la fonctionnalité `nightly` de Leptos permet "
+"d'utiliser la syntaxe d'appel de fonctions, pour les getters et setters des "
+"signaux, qui est utilisée dans la plus grande partie de ce livre."
 
 #: src/getting_started/index.md:60
 msgid ""
 "To use nightly Rust, you can either opt into nightly for all your Rust "
 "projects by running"
 msgstr ""
+"Pour utiliser nightly Rust, vous pouvez soit opter pour nightly dans tous "
+"vos projets Rust, en lançant"
 
 #: src/getting_started/index.md:67
 msgid "or only for this project"
-msgstr ""
+msgstr "ou seulement pour ce projet"
 
 #: src/getting_started/index.md:75
 msgid ""
 "[See here for more details.](https://doc.rust-lang.org/book/appendix-07-"
 "nightly-rust.html)"
 msgstr ""
+"[Voir ici pour plus de détails.](https://doc.rust-lang.org/book/appendix-07-"
+"nightly-rust.html)"
 
 #: src/getting_started/index.md:77
 msgid ""
@@ -426,29 +541,39 @@ msgid ""
 "leptos/struct.WriteSignal.html#impl-SignalGet%3CT%3E-for-ReadSignal%3CT%3E) "
 "methods instead of calling signal getters and setters as functions."
 msgstr ""
+"Si vous préférez utiliser Rust stable avec Leptos, vous pouvez aussi le "
+"faire. Dans ce guide et ses exemples, vous utiliserez simplement les "
+"méthodes [`ReadSignal::get()`](https://docs.rs/leptos/latest/leptos/struct."
+"ReadSignal.html#impl-SignalGet%3CT%3E-for-ReadSignal%3CT%3E) et "
+"[`WriteSignal::set()`](https://docs.rs/leptos/latest/leptos/struct."
+"WriteSignal.html#impl-SignalGet%3CT%3E-for-ReadSignal%3CT%3E) au lieu "
+"d'appeler les getters et setters de signaux en tant que fonctions."
 
 #: src/getting_started/index.md:79
 msgid ""
 "Make sure you've added the `wasm32-unknown-unknown` target so that Rust can "
 "compile your code to WebAssembly to run in the browser."
 msgstr ""
+"Assurez-vous d'avoir ajouté la cible `wasm32-unknown-unknown` afin que Rust "
+"puisse compiler votre code en WebAssembly pour l'exécuter dans le navigateur."
 
 #: src/getting_started/index.md:85
 msgid ""
 "Create a simple `index.html` in the root of the `leptos-tutorial` directory"
 msgstr ""
+"Créer un simple `index.html` à la racine du répertoire `leptos-tutorial`"
 
 #: src/getting_started/index.md:95
 msgid "And add a simple “Hello, world!” to your `main.rs`"
-msgstr ""
+msgstr "Et ajoutez un simple \"Hello, world !\" dans votre `main.rs`"
 
 #: src/getting_started/index.md:101
 msgid "\"Hello, world!\""
-msgstr ""
+msgstr "\"Hello, world!\""
 
 #: src/getting_started/index.md:105
 msgid "Your directory structure should now look something like this"
-msgstr ""
+msgstr "La structure de votre répertoire devrait maintenant ressembler à ceci"
 
 #: src/getting_started/index.md:115
 msgid ""
@@ -457,12 +582,18 @@ msgid ""
 "default browser. If you make edits to `main.rs`, Trunk will recompile your "
 "source code and live-reload the page."
 msgstr ""
+"Maintenant, lancez `trunk serve --open` depuis la racine du répertoire "
+"`leptos-tutorial`. Trunk devrait automatiquement compiler votre application "
+"et l'ouvrir dans votre navigateur par défaut. Si vous modifiez `main.rs`, "
+"Trunk recompilera votre code source et rechargera la page en temps-réel."
 
 #: src/getting_started/index.md:120
 msgid ""
 "Welcome to the world of UI development with Rust and WebAssembly (WASM), "
 "powered by Leptos and Trunk!"
 msgstr ""
+"Bienvenue dans le monde du développement des interfaces utilisateur avec "
+"Rust et WebAssembly (WASM), propulsé par Leptos et Trunk !"
 
 #: src/getting_started/index.md:124
 msgid ""
@@ -470,10 +601,13 @@ msgid ""
 "are a couple of things you might want to know to help make your experience "
 "with Leptos just a little bit easier."
 msgstr ""
+"Avant de commencer à construire vos premières interfaces utilisateur avec "
+"Leptos, il y a deux ou trois choses que vous voudrez peut-être savoir pour "
+"rendre votre expérience avec Leptos un peu plus facile."
 
 #: src/getting_started/leptos_dx.md:1
 msgid "Leptos Developer Experience Improvements"
-msgstr ""
+msgstr "Amélioration de l'expérience développeurs Leptos"
 
 #: src/getting_started/leptos_dx.md:4
 msgid ""
@@ -482,10 +616,15 @@ msgid ""
 "and set up your environment to optimize your development experience, "
 "especially if you want to code along with the examples in this book."
 msgstr ""
+"Pour améliorer votre expérience lors du développement de sites web et "
+"d'applications avec Leptos, plusieurs choses peuvent être réalisées. Prenez "
+"quelques minutes pour configurer votre environnement afin d'optimiser le "
+"développement, en particulier si vous souhaitez coder en suivant les "
+"exemples de ce livre."
 
 #: src/getting_started/leptos_dx.md:6
 msgid "1) Set up `console_error_panic_hook`"
-msgstr ""
+msgstr "1) Configurer `console_error_panic_hook`"
 
 #: src/getting_started/leptos_dx.md:8
 msgid ""
@@ -493,53 +632,77 @@ msgid ""
 "just throw an error in the browser with an unhelpful message like "
 "`Unreachable executed` and a stack trace that points into your WASM binary."
 msgstr ""
+"Par défaut, les 'panics', qui se produisent lors de l'exécution de votre "
+"code WASM dans le navigateur, déclenchent simplement une erreur dans le "
+"navigateur avec un message négligeable tel `Unreachable executed`, "
+"accompagné d'une trace de la pile pointant vers votre binaire WASM."
 
 #: src/getting_started/leptos_dx.md:10
 msgid ""
 "With `console_error_panic_hook`, you get an actual Rust stack trace that "
 "includes a line in your Rust source code."
 msgstr ""
+"Avec `console_error_panic_hook`, vous obtenez la trace de la pile actuelle "
+"de Rust accompagné d'une ligne de votre code source Rust."
 
 #: src/getting_started/leptos_dx.md:12
 msgid "It's very easy to set up:"
-msgstr ""
+msgstr "C'est très facile à configurer :"
 
 #: src/getting_started/leptos_dx.md:13
 msgid "Run `cargo add console_error_panic_hook` in your project"
 msgstr ""
+"Exécutez `cargo add console_error_panic_hook` dans le répertoire de votre "
+"projet"
 
 #: src/getting_started/leptos_dx.md:14
 msgid "In your main function, add `console_error_panic_hook::set_once();`"
-msgstr ""
+msgstr "Dans la fonction main, ajoutez `console_error_panic_hook::set_once();`"
 
 #: src/getting_started/leptos_dx.md:16
 msgid ""
 "If this is unclear, [click here for an example](https://github.com/leptos-rs/"
 "leptos/blob/main/examples/counter/src/main.rs#L4-L15)."
 msgstr ""
+"Si ce n'est pas clair, [cliquez ici pour un exemple](https://github.com/"
+"leptos-rs/leptos/blob/main/examples/counter/src/main.rs#L4-L15)."
 
 #: src/getting_started/leptos_dx.md:18
 msgid "Now you should have much better panic messages in the browser console!"
 msgstr ""
+"Maintenant, vous devriez avoir de bien meilleurs messages de panique dans la "
+"console du navigateur !"
 
 #: src/getting_started/leptos_dx.md:20
 msgid "2) Editor Autocompletion inside `#[component]` and `#[server]`"
 msgstr ""
+"Auto-completion de l'éditeur à l'intérieur de `#[component]` et `#[server]`"
 
 #: src/getting_started/leptos_dx.md:22
+#, fuzzy
 msgid ""
 "Because of the nature of macros (they can expand from anything to anything, "
 "but only if the input is exactly correct at that instant) it can be hard for "
 "rust-analyzer to do proper autocompletion and other support."
 msgstr ""
+"En raison de la nature des macros (ils peuvent se développer de tout à "
+"n'importe quoi, mais seulement si l'entrée est exactement correcte à cet "
+"instant), il peut être difficile pour rust-analyzer de faire une complétion "
+"automatique correcte et d'autres supports."
 
 #: src/getting_started/leptos_dx.md:25
+#, fuzzy
 msgid ""
 "If you run into issues using these macros in your editor, you can explicitly "
 "tell rust-analyzer to ignore certain proc macros. For the `#[server]` macro "
 "especially, which annotates function bodies but doesn't actually transform "
 "anything inside the body of your function, this can be really helpful."
 msgstr ""
+"Si vous rencontrez des problèmes en utilisant ces macros dans votre éditeur, "
+"vous pouvez explicitement dire à rust-analyzer d'ignorer certaines macros "
+"proc. Pour la macro `#[server]` en particulier, qui annote les corps de "
+"fonction mais ne transforme rien à l'intérieur du corps de votre fonction, "
+"cela peut être très utile."
 
 #: src/getting_started/leptos_dx.md:27
 msgid ""
@@ -549,18 +712,24 @@ msgid ""
 "means that rust-analyzer doesn't know about your component props, which may "
 "generate its own set of errors or warnings in the IDE."
 msgstr ""
+"À partir de Leptos version 0.5.3, une prise en charge de rust-analyzer a été "
+"ajoutée pour la macro `#[component]`, mais si vous rencontrez des erreurs, "
+"vous voudrez peut-être ajouter `#[component]` à la liste des macros à "
+"ignorer également (voir ci-dessous). Notez que cela signifie que rust-"
+"analyzer ne reconnaîtra pas les propriétés de votre composant, qui peuvent "
+"générer leur propre ensemble d'erreurs ou d'avertissements dans l'IDE."
 
 #: src/getting_started/leptos_dx.md:30
 msgid "VSCode `settings.json`:"
-msgstr ""
+msgstr "VSCode `settings.json`:"
 
 #: src/getting_started/leptos_dx.md:33
 msgid "\"rust-analyzer.procMacro.ignored\""
-msgstr ""
+msgstr "\"rust-analyzer.procMacro.ignored\""
 
 #: src/getting_started/leptos_dx.md:34
 msgid "\"leptos_macro\""
-msgstr ""
+msgstr "\"leptos_macro\""
 
 #: src/getting_started/leptos_dx.md:35
 msgid ""
@@ -568,26 +737,29 @@ msgid ""
 "\t\t// \"component\",\n"
 "\t\t\"server\""
 msgstr ""
+"// optionnel :\n"
+"\t\t// \"component\",\n"
+"\t\t\"server\""
 
 #: src/getting_started/leptos_dx.md:42
 msgid "neovim with lspconfig:"
-msgstr ""
+msgstr "neovim avec lspconfig:"
 
 #: src/getting_started/leptos_dx.md:45
 msgid "'lspconfig'"
-msgstr ""
+msgstr "'lspconfig'"
 
 #: src/getting_started/leptos_dx.md:46
 msgid "-- Other Configs ...\n"
-msgstr ""
+msgstr "-- Autres Configurations ...\n"
 
 #: src/getting_started/leptos_dx.md:48
 msgid "\"rust-analyzer\""
-msgstr ""
+msgstr "\"rust-analyzer\""
 
 #: src/getting_started/leptos_dx.md:49
 msgid "-- Other Settings ...\n"
-msgstr ""
+msgstr "-- Autres Paramétrages ...\n"
 
 #: src/getting_started/leptos_dx.md:53
 msgid ""
@@ -595,10 +767,13 @@ msgid ""
 "                -- \"component\",\n"
 "                \"server\""
 msgstr ""
+"-- optionnel : --\n"
+"                -- \"component\",\n"
+"                \"server\""
 
 #: src/getting_started/leptos_dx.md:64
 msgid "Helix, in `.helix/languages.toml`:"
-msgstr ""
+msgstr "Helix, dans `.helix/languages.toml`:"
 
 #: src/getting_started/leptos_dx.md:66
 msgid ""
@@ -616,10 +791,23 @@ msgid ""
 "        ] } } }\n"
 "```"
 msgstr ""
+"```toml\n"
+"[[language]]\n"
+"name = \"rust\"\n"
+"\n"
+"[language-server.rust-analyzer]\n"
+"config = { procMacro = { ignored =\n"
+"    { leptos_macro =\n"
+"        [\n"
+"          # Optionnel :\n"
+"          # \"component\",\n"
+"          \"server\"\n"
+"        ] } } }\n"
+"```"
 
 #: src/getting_started/leptos_dx.md:80
 msgid "3) Set up `leptosfmt` With Rust Analyzer (optional)"
-msgstr ""
+msgstr "3) Configurer `leptosfmt` avec Rust Analyzer (optionnel)"
 
 #: src/getting_started/leptos_dx.md:82
 msgid ""
@@ -630,16 +818,26 @@ msgid ""
 "crate that solves your formattting issues and keeps your RSX-style UI code "
 "looking nice and tidy!"
 msgstr ""
+"\"leptosfmt\" est un formateur pour la macro `View!` de Leptos (dans "
+"laquelle vous écrirez généralement le code de votre interface utilisateur). "
+"Comme la macro view! permet d'utiliser le style 'RSX' (comme JSX) pour "
+"rédiger votre interface, cargo-fmt a plus de difficultés à formater "
+"automatiquement votre code lorsqu'il se trouve à l'intérieur de la macro "
+"view!. leptosfmt est une crate qui permet de résoudre vos problèmes de mise "
+"en forme, elle maintient le code de l'interface utilisateur, de style RSX, "
+"bien organisé !"
 
 #: src/getting_started/leptos_dx.md:84
 msgid ""
 "leptosfmt can be installed and used via the commandline or from within your "
 "code editor:"
 msgstr ""
+"leptosfmt peut être installé et utilisé via la ligne de commande ou depuis "
+"votre éditeur de code :"
 
 #: src/getting_started/leptos_dx.md:86
 msgid "First, install the tool with `cargo install leptosfmt`."
-msgstr ""
+msgstr "Tout d'abord, installez cet outil avec `cargo install leptosfmt`."
 
 #: src/getting_started/leptos_dx.md:88
 msgid ""
@@ -647,6 +845,10 @@ msgid ""
 "`leptosfmt ./**/*.rs` from the root of your project to format all the rust "
 "files using leptosfmt."
 msgstr ""
+"Si vous souhaitez juste utiliser les options par défaut de la ligne de "
+"commande, exécutez simplement `leptosfmt ./**/*. rs`, depuis la racine de "
+"votre projet, afin de mettre en forme tous les fichiers de Rust à l'aide de "
+"leptosfmt."
 
 #: src/getting_started/leptos_dx.md:90
 msgid ""
@@ -655,20 +857,26 @@ msgid ""
 "on the [leptosfmt github repo's README.md page](https://github.com/bram209/"
 "leptosfmt)."
 msgstr ""
+"Si vous souhaitez configurer votre éditeur pour travailler avec leptosfmt, "
+"ou si vous souhaitez personnaliser votre usage de leptosfmt, veuillez "
+"consulter les instructions disponibles sur la page [leptosfmt github repo's "
+"README.md](https://github.com/bram209/leptosfmt)."
 
 #: src/getting_started/leptos_dx.md:92
 msgid ""
 "Just note that it's recommended to set up your editor with `leptosfmt` on a "
 "per-workspace basis for best results."
 msgstr ""
+"Notez simplement qu'il est recommandé de configurer votre éditeur avec "
+"`leptosfmt`, en fonction du workspace, pour de meilleurs résultats."
 
 #: src/getting_started/community_crates.md:1
 msgid "The Leptos Community and `leptos-*` Crates"
-msgstr ""
+msgstr "La communauté Leptos et les crates `leptos-*`"
 
 #: src/getting_started/community_crates.md:3
 msgid "The Community"
-msgstr ""
+msgstr "La communauté"
 
 #: src/getting_started/community_crates.md:5
 msgid ""
@@ -678,6 +886,11 @@ msgid ""
 "leptos). Our Discord channel in particular is very active and friendly - "
 "we'd love to have you there!"
 msgstr ""
+"Une dernière note avant d'utiliser Leptos : si vous ne l'avez pas déjà fait, "
+"n'hésitez pas à rejoindre la communauté, de plus en plus importante, sur le "
+"[Discord](https://discord.gg/ydrahs7eqb) Leptos et sur [Github](https://"
+"github.com/leptos-rs/leptos). Notre canal Discord, en particulier, est très "
+"actif et convivial - nous serions ravis de vous y voir!"
 
 #: src/getting_started/community_crates.md:7
 msgid ""
@@ -688,6 +901,13 @@ msgid ""
 "and update the book for others.\n"
 "```"
 msgstr ""
+"```note\n"
+"Si vous trouvez un chapitre ou une explication pas très claire lors du "
+"parcours de ce livre sur Leptos, il suffit de le mentionner dans le canal "
+"\"ocs-and-education\", ou de poser une question dans \"help\", afin que nous "
+"puissions effectuer les corrections, puis faire une mise à jour pour les "
+"autres lecteurs.\n"
+"```"
 
 #: src/getting_started/community_crates.md:11
 msgid ""
@@ -697,6 +917,11 @@ msgid ""
 "to post your own question - the community is quite helpful and very "
 "responsive."
 msgstr ""
+"Au fur et à mesure que vous avancez dans votre parcours de Leptos, si vous "
+"avez des questions du type \"Comment faire telle chose avec Leptos\", "
+"recherchez dans le canal \"help\" de Discord pour vérifier si une question "
+"similaire a déjà été posée. Sinon, n'hésitez pas à postez votre propre "
+"question - la communauté est assez utile et très réactive."
 
 #: src/getting_started/community_crates.md:13
 msgid ""
@@ -704,6 +929,9 @@ msgid ""
 "Github are also a great place for asking questions and keeping up with "
 "Leptos announcements."
 msgstr ""
+"L'onglet \"[Discussions](https://github.com/leptos-rs/leptos/discussions)\" "
+"de Github est aussi un endroit idéal pour poser vos questions et suivre les "
+"annonces à propos de Leptos."
 
 #: src/getting_started/community_crates.md:15
 msgid ""
@@ -712,10 +940,15 @@ msgid ""
 "feature), open up an issue on the [Github issue tracker](https://github.com/"
 "leptos-rs/leptos/issues)."
 msgstr ""
+"Et bien sûr, si vous rencontrez des bogues pendant votre développement avec "
+"Leptos, ou si vous souhaitez faire une demande de fonctionnalité (ou "
+"contribuer à un correctif de bogue / à une nouvelle fonctionnalité), ouvrez "
+"une demande sur le [GitHub issue tracker](https://github.com/leptos-rs/"
+"leptos/issues)."
 
 #: src/getting_started/community_crates.md:18
 msgid "Leptos-\\* Crates"
-msgstr ""
+msgstr "Les Crates Leptos-*"
 
 #: src/getting_started/community_crates.md:20
 msgid ""
@@ -725,6 +958,11 @@ msgid ""
 "the [Awesome Leptos](https://github.com/leptos-rs/awesome-leptos) repo on "
 "Github."
 msgstr ""
+"La communauté a construit un nombre croissant de crates qui vous aideront à "
+"devenir productif plus rapidement avec les projets Leptos - consultez la "
+"liste des crates s'appuyant sur Leptos, apportées par la communauté, sur le "
+"dépôt [Awesome Leptos](https://github.com/leptos-rs/awesome-leptos) de "
+"Github."
 
 #: src/getting_started/community_crates.md:22
 msgid ""
@@ -737,6 +975,15 @@ msgid ""
 "making their way into the growing list of crates and resources available on "
 "[Awesome Leptos](https://github.com/leptos-rs/awesome-leptos)."
 msgstr ""
+"Si vous souhaitez trouver les crates les plus récentes et prometteuses, "
+"liées à Leptos, consultez la section \"Tools and Libraries\" du Discord "
+"Leptos. Dans cette section, il existe des canaux pour le formateur de la "
+"macro Leptos `view!` (dans le canal \"leptosfmt\"); Il y a un canal pour la "
+"bibliothèque d'utilitaires \"leptos-use\"; Un autre canal pour la "
+"bibliothèque de composants UI \"leptonic\"; et un canal \"libraries\" où les "
+"nouvelles crates `leptos-*` sont examinées avant de faire leur chemin dans "
+"la liste croissante des crates et des ressources disponibles sur [Awesome "
+"Leptos](https://github.com/leptos-rs/awesome-leptos)."
 
 #: src/view/index.md:3
 msgid ""
@@ -746,6 +993,11 @@ msgid ""
 "which has been compiled to WebAssembly to drive the interactivity in your "
 "CSR (client-side rendered) website."
 msgstr ""
+"Dans la première partie du livre, nous allons nous pencher sur la création "
+"d'interfaces utilisateur côté client, à l'aide de Leptos. Sous le capot, "
+"Leptos et Trunk regroupent un 'snippet' en Javascript qui chargera "
+"l'interface utilisateur de Leptos, compilée en WebAssembly pour piloter "
+"l'interactivité de votre site web CSR (rendu côté client)."
 
 #: src/view/index.md:5
 msgid ""
@@ -755,6 +1007,12 @@ msgid ""
 "and which you can deploy on any static-site hosting service, like Github "
 "Pages or Vercel."
 msgstr ""
+"La partie 1 vous présentera les outils de base qui vous seront utiles pour "
+"construire une interface utilisateur réactive basée sur Leptos et Rust. À la "
+"fin de la partie 1, vous devriez être en mesure de construire un site web "
+"synchrone, rapide, dont le rendu s'effectuera dans le navigateur, et que "
+"vous pourrez déployer sur n'importe quel service d'hébergement de site "
+"statique, tel Github Pages ou Vercel."
 
 #: src/view/index.md:8
 msgid ""
@@ -792,12 +1050,52 @@ msgid ""
 "\n"
 "```"
 msgstr ""
+"```information\n"
+"Pour tirer le meilleur parti de ce livre, nous vous encourageons à coder "
+"vous même les exemples fournis.\n"
+"Dans les chapitres [Commencer](https://book.leptos.dev/getting_started/) et "
+"[Expérience Développeur Leptos](https://book.leptos.dev/getting_started/"
+"leptos_dx.html), nous vous avons montré comment configurer un projet initial "
+"avec Leptos et Trunk, comprenant la gestion des erreurs WASM dans le "
+"navigateur.\n"
+"Cette configuration initiale est suffisante pour vous permettre de commencer "
+"à développer avec Leptos.\n"
+"\n"
+"Si vous préférez commencer en utilisant un modèle plus complet qui indique "
+"comment mettre en place quelques-uns des éléments primordiaux que vous "
+"trouverez dans un vrai projet Leptos, tel le routage (couvert plus loin dans "
+"le livre), l'injection de balises `<Title>` et `<Meta>` dans l'en-tête de la "
+"page, ainsi que d'autres subtilités, alors n'hésitez pas à utiliser le dépôt "
+"du modèle [the leptos-rs `start-trunk`](https://github.com/leptos-rs/start-"
+"trunk) pour être opérationnel.\n"
+"\n"
+"Le modèle `start-trunk` nécessite que `Trunk` et `cargo-generate` soient "
+"installés, ce que vous pouvez obtenir en exécutant `cargo install trunk` et "
+"`cargo install cargo-generate`.\n"
+"\n"
+"Pour utiliser le modèle afin de mettre en place votre projet, exécutez "
+"simplement\n"
+"\n"
+"`cargo generate --git https://github.com/leptos-community/start-csr`\n"
+"\n"
+"puis\n"
+"\n"
+"`trunk serve --port 3000 --open`\n"
+"\n"
+"dans le répertoire de l'application nouvellement créée, pour commencer le "
+"développement de votre application.\n"
+"Le serveur Trunk rechargera votre application à chaque modification de "
+"fichier, ce qui rendra le développement relativement harmonieux.\n"
+"\n"
+"```"
 
 #: src/view/01_basic_component.md:3
 msgid ""
 "That “Hello, world!” was a _very_ simple example. Let’s move on to something "
 "a little more like an ordinary app."
 msgstr ""
+"Ce \"Hello, world !\" était un exemple _très_ simple. Passons à quelque "
+"chose qui ressemble un peu plus à une application ordinaire."
 
 #: src/view/01_basic_component.md:6
 msgid ""
@@ -809,6 +1107,14 @@ msgid ""
 "elements, they are in `PascalCase`, so most Leptos applications will start "
 "with something like an `<App/>` component."
 msgstr ""
+"Tout d'abord, modifions la fonction `main` pour qu'au lieu d'effectuer le "
+"rendu pour toute l'application, elle le fasse uniquement pour le composant "
+"`<App/>`. Les composants sont l'élément de base de la composition et de la "
+"conception dans la plupart des frameworks web, Leptos ne fait pas exception. "
+"Conceptuellement, ils sont similaires aux éléments HTML : ils représentent "
+"une section du DOM, avec un comportement autonome et défini. Contrairement "
+"aux éléments HTML, ils sont en `PascalCase`, de sorte que la plupart des "
+"applications Leptos commenceront par un composant du genre `<App/>`."
 
 #: src/view/01_basic_component.md:20
 msgid ""
@@ -816,23 +1122,26 @@ msgid ""
 "simple, I’ll give you the whole thing up front, then walk through it line by "
 "line."
 msgstr ""
+"Définissons maintenant notre composant `<App/>` lui-même. Puisque cela reste "
+"relativement simple, je vais vous donner l'ensemble de la définition avant "
+"de la parcourir ligne par ligne."
 
 #: src/view/01_basic_component.md:31
 msgid "// on stable, this is set_count.set(3);\n"
-msgstr ""
+msgstr "// en version stable, ce sera set_count.set(3);\n"
 
 #: src/view/01_basic_component.md:35 src/view/01_basic_component.md:132
 #: src/view/02_dynamic_attributes.md:24
 msgid "\"Click me: \""
-msgstr ""
+msgstr "\"Cliquez moi : \""
 
 #: src/view/01_basic_component.md:36
 msgid "// on stable, this is move || count.get();\n"
-msgstr ""
+msgstr "// en version stable, ce sera move || count.get();\n"
 
 #: src/view/01_basic_component.md:43
 msgid "The Component Signature"
-msgstr ""
+msgstr "La signature du composant"
 
 #: src/view/01_basic_component.md:49
 msgid ""
@@ -842,30 +1151,39 @@ msgid ""
 "Leptos application. We’ll see some of the other features of this macro in a "
 "couple chapters."
 msgstr ""
+"Comme toutes les définitions de composants, cela commence par la macro "
+"[`#[component]`](https://docs.rs/leptos/latest/leptos/attr.component.html). "
+"`#[component]` annote une fonction afin qu'elle puisse être utilisée comme "
+"composant dans votre application Leptos. Nous verrons certaines des autres "
+"fonctionnalités de cette macro dans quelques chapitres."
 
 #: src/view/01_basic_component.md:57
 msgid "Every component is a function with the following characteristics"
-msgstr ""
+msgstr "Chaque composant est une fonction avec les caractéristiques suivantes"
 
 #: src/view/01_basic_component.md:59
 msgid "It takes zero or more arguments of any type."
-msgstr ""
+msgstr "Elle prend zéro ou plusieurs arguments de n'importe quel type."
 
 #: src/view/01_basic_component.md:60
 msgid ""
 "It returns `impl IntoView`, which is an opaque type that includes anything "
 "you could return from a Leptos `view`."
 msgstr ""
+"Elle renvoie `impl IntoView`, qui est un type opaque incluant tout ce que "
+"l'on peut renvoyer d'une `view` de Leptos."
 
 #: src/view/01_basic_component.md:63
 msgid ""
 "Component function arguments are gathered together into a single props "
 "struct which is built by the `view` macro as needed."
 msgstr ""
+"Les arguments de fonction des composants sont rassemblés en une structure de "
+"propriétés, construite par la macro `View`, comme requis."
 
 #: src/view/01_basic_component.md:65
 msgid "The Component Body"
-msgstr ""
+msgstr "Le corps des composants"
 
 #: src/view/01_basic_component.md:67
 msgid ""
@@ -874,6 +1192,11 @@ msgid ""
 "create a few reactive variables, define any side effects that run in "
 "response to those values changing, and describe the user interface."
 msgstr ""
+"Le corps de la fonction du composant est une fonction de configuration qui "
+"s'exécute une seule fois, ce n'est pas une fonction qui s'exécutera à chaque "
+"rendu. Vous allez généralement l'utiliser pour créer quelques variables "
+"réactives, définir les effets secondaires qui s'exécutent en réponse à la "
+"modifications de ces valeurs, et décrire l'interface utilisateur."
 
 #: src/view/01_basic_component.md:76
 msgid ""
@@ -884,6 +1207,12 @@ msgid ""
 "shorthand `count()`). To set the current value, you’ll call `set_count."
 "set(...)` (or `set_count(...)`)."
 msgstr ""
+"[`create_signal`](https://docs.rs/leptos/latest/leptos/fn.create_signal."
+"html) crée un signal, qui est l'unité de base du changement réactif et de la "
+"gestion de l'État dans Leptos. Cela retourne un tuple `(getter, setter)`. "
+"Pour accéder à la valeur actuelle, vous utiliserez `count.get()` (ou, en "
+"configuration `Nightly` de Rust, le raccourci `count()`). Pour définir la "
+"valeur actuelle, vous appellerez `set_count.set(...)` (ou `set_count(...)`)."
 
 #: src/view/01_basic_component.md:82
 msgid ""
@@ -893,30 +1222,40 @@ msgid ""
 "and [`WriteSignal`](https://docs.rs/leptos/latest/leptos/struct.WriteSignal."
 "html) if you’d like to learn more about those trade-offs at this point."
 msgstr ""
+"`.get()` clone la valeur et `.set()` la remplace. Dans de nombreux cas, il "
+"est plus efficace d'utiliser `.with()` ou `.update()`; Vérifiez les "
+"documents de [`ReadSignal`](https://docs.rs/leptos/latest/leptos/struct."
+"ReadSignal.html) et [`WriteSignal`](https://docs.rs/leptos/latest/leptos/"
+"struct.WriteSignal.html) si vous souhaitez en savoir plus sur ces compromis "
+"à ce stade."
 
 #: src/view/01_basic_component.md:84
 msgid "The View"
-msgstr ""
+msgstr "La vue"
 
 #: src/view/01_basic_component.md:86
 msgid ""
 "Leptos defines user interfaces using a JSX-like format via the [`view`]"
 "(https://docs.rs/leptos/latest/leptos/macro.view.html) macro."
 msgstr ""
+"Leptos définit les interfaces utilisateur à l'aide d'un format de type JSX "
+"via la macro [`view`](https://docs.rs/leptos/latest/leptos/macro.view.html)."
 
 #: src/view/01_basic_component.md:91
 msgid "// define an event listener with on:\n"
-msgstr ""
+msgstr "// Définit un écouteur d'événement avec on :\n"
 
 #: src/view/01_basic_component.md:96
 msgid ""
 "// text nodes are wrapped in quotation marks\n"
 "        \"Click me: \""
 msgstr ""
+"// Les nœuds de texte sont entourés de guillemets\n"
+"        \"Cliquez moi : \""
 
 #: src/view/01_basic_component.md:98
 msgid "// blocks can include Rust code\n"
-msgstr ""
+msgstr "// Les blocs peuvent inclure du code Rust\n"
 
 #: src/view/01_basic_component.md:104
 msgid ""
@@ -924,10 +1263,14 @@ msgid ""
 "`on:click` to define a `click` event listener, a text node that’s formatted "
 "like a Rust string, and then..."
 msgstr ""
+"Cela devrait généralement être facile à comprendre : le code ressemble à du "
+"HTML, avec un `on:click` spécialement pour définir un écouteur des "
+"événements `click`, et un nœud de texte qui est formaté comme une chaîne "
+"Rust, puis ..."
 
 #: src/view/01_basic_component.md:112
 msgid "whatever that is."
-msgstr ""
+msgstr "quoi qu'il en soit."
 
 #: src/view/01_basic_component.md:114
 msgid ""
@@ -936,6 +1279,11 @@ msgid ""
 "Basically, passing a function into the view tells the framework: “Hey, this "
 "is something that might change.”"
 msgstr ""
+"Les gens plaisantent parfois en indiquant qu’ils utilisent plus de closures "
+"dans leur première application Leptos qu’ils n'en ont jamais utilisés dans "
+"toute leur vie. C'est assez juste. Fondamentalement, passer une fonction à "
+"la vue indique au framework : \"Hé, ceci est une chose qui pourrait changer."
+"\""
 
 #: src/view/01_basic_component.md:118
 msgid ""
@@ -945,6 +1293,12 @@ msgid ""
 "specific text node, touching nothing else in your application. This is what "
 "allows for extremely efficient updates to the DOM."
 msgstr ""
+"Lorsque nous cliquons sur le bouton et appelons `set_count`, le signal "
+"`count` est mis à jour. Cette closure `move || count()`, dont la valeur "
+"dépend de la valeur de `count`, est réexécuté, et le framework fait une mise "
+"à jour ciblée de ce nœud de texte spécifique, sans toucher à rien d'autre "
+"dans votre application. C'est ce qui permet des mises à jour extrêmement "
+"efficaces du DOM."
 
 #: src/view/01_basic_component.md:124
 msgid ""
@@ -953,6 +1307,12 @@ msgid ""
 "If you’re using Leptos with `nightly` Rust, signals are already functions, "
 "so the closure is unnecessary. As a result, you can write a simpler view:"
 msgstr ""
+"Maintenant, si vous avez Clippy - ou si vous avez un œil particulièrement "
+"aiguisé - vous pourriez remarquer que cette closure est redondante, du moins "
+"si vous êtes dans la configuration `nightly` de Rust. Si vous utilisez "
+"Leptos avec Rust `nightly`, les signaux sont déjà des fonctions, donc la "
+"closure n'est pas nécessaire.\n"
+"En conséquence, vous pouvez écrire une vue plus simplement :"
 
 #: src/view/01_basic_component.md:131 src/view/03_components.md:392
 #: src/testing.md:18 src/testing.md:47 src/router/16_routes.md:43
@@ -960,13 +1320,14 @@ msgstr ""
 #: src/router/16_routes.md:73 src/web_sys.md:111 src/web_sys.md:113
 #: src/web_sys.md:119
 msgid "/* ... */"
-msgstr ""
+msgstr "/* ... */"
 
 #: src/view/01_basic_component.md:133
 msgid "// identical to {move || count()}\n"
-msgstr ""
+msgstr "// identique à {move || count()}\n"
 
 #: src/view/01_basic_component.md:139
+#, fuzzy
 msgid ""
 "Remember—and this is _very important_—only functions are reactive. This "
 "means that `{count}` and `{count()}` do very different things in your view. "
@@ -975,22 +1336,39 @@ msgid ""
 "and passes an `i32` into the view, rendering it once, unreactively. You can "
 "see the difference in the CodeSandbox below!"
 msgstr ""
+"N'oubliez pas que - et c'est _très important_ - seules les fonctions sont "
+"réactives. Cela signifie que `{count}` et `{count()}` fonctionnent très "
+"différemment dans une vue. `{count}` passé à une fonction, indique au "
+"framework de mettre à jour la vue à chaque fois que `count` change.\n"
+"`{count()}` accède à la valeur de `count` une seule fois, et passe un `i32` "
+"à la vue, effectuant le rendu une fois, de manière non réactive. Vous pouvez "
+"voir la différence dans la CodeSandbox ci-dessous !"
 
 #: src/view/01_basic_component.md:145
+#, fuzzy
 msgid ""
 "Let’s make one final change. `set_count(3)` is a pretty useless thing for a "
 "click handler to do. Let’s replace “set this value to 3” with “increment "
 "this value by 1”:"
 msgstr ""
+"Faisons une dernière modification. `set_count(3)` est une chose assez "
+"inutile à faire pour un gestionnaire de clics. Remplaçons “Définir cette "
+"valeur à 3“ par “incrémenter cette valeur de 1“ :"
 
 #: src/view/01_basic_component.md:153
+#, fuzzy
 msgid ""
 "You can see here that while `set_count` just sets the value, `set_count."
 "update()` gives us a mutable reference and mutates the value in place. "
 "Either one will trigger a reactive update in our UI."
 msgstr ""
+"Vous pouvez voir ici que même si `set_count` définit seulement la valeur, "
+"`set_count.update()` nous donne une référence mutable et modifie la valeur "
+"en place. L'un ou l'autre déclenchera une mise à jour réactive de notre "
+"interface utilisateur."
 
 #: src/view/01_basic_component.md:155
+#, fuzzy
 msgid ""
 "Throughout this tutorial, we’ll use CodeSandbox to show interactive "
 "examples. To show the browser in the sandbox, you may need to click `Add "
@@ -998,12 +1376,20 @@ msgid ""
 "Rust-Analyzer details and docs for what’s going on. Feel free to fork the "
 "examples to play with them yourself!"
 msgstr ""
+"Tout au long de ce tutoriel, nous utiliserons la CodeSandbox pour afficher "
+"des exemples interactifs. Pour afficher le navigateur dans le sandbox, vous "
+"devrez peut-être cliquer sur `Add DevTools > Other Previews > 8080.` "
+"Survolez chacune des variables pour voir les détails et la documentation de "
+"Rust-Analyzer pour ce qu'il en est. N'hésitez pas à dupliquer les exemples "
+"pour jouer avec eux vous-même !"
 
 #: src/view/01_basic_component.md:160
 msgid ""
 "[Click to open CodeSandbox.](https://codesandbox.io/p/sandbox/1-basic-"
 "component-3d74p3?file=%2Fsrc%2Fmain.rs%3A1%2C1)"
 msgstr ""
+"[Cliquez pour ouvrir le CodeSandbox.](https://codesandbox.io/p/sandbox/1-"
+"basic-component-3d74p3?file=%2Fsrc%2Fmain.rs%3A1%2C1)"
 
 #: src/view/01_basic_component.md:169
 msgid ""
@@ -1011,6 +1397,11 @@ msgid ""
 "// Components are the building blocks of your user interface\n"
 "// They define a reusable unit of behavior\n"
 msgstr ""
+"// La macro #[component] marque une fonction en tant que composant "
+"réutilisable\n"
+"// Les composants sont les éléments constitutifs de votre interface "
+"utilisateur\n"
+"// Ils définissent une unité de comportement réutilisable\n"
 
 #: src/view/01_basic_component.md:175
 msgid ""
@@ -1019,24 +1410,37 @@ msgid ""
 "    // signals are the basic unit of change in the framework\n"
 "    // we'll talk more about them later\n"
 msgstr ""
+"// ici, nous créons un signal réactif\n"
+"    // et obtenons une paire (getter, setter)\n"
+"    // Les signaux sont l'unité de base des changements dans le framework\n"
+"    // Nous en parlerons plus tard\n"
 
 #: src/view/01_basic_component.md:181
 msgid ""
 "// the `view` macro is how we define the user interface\n"
 "    // it uses an HTML-like format that can accept certain Rust values\n"
 msgstr ""
+"// c'est ainsi que la macro `view` définit l'interface utilisateur\n"
+"    // elle utilise un format de type HTML pouvant accepter certaines\n"
+"    // valeurs de Rust\n"
 
 #: src/view/01_basic_component.md:185
 msgid ""
 "// on:click will run whenever the `click` event fires\n"
 "            // every event handler is defined as `on:{eventname}`\n"
 msgstr ""
+"// on:click s'exécutera chaque fois que l'événement\n"
+"            // `click` se déclenchera.\n"
+"            // Chaque gestionnaire d'événements est défini par\n"
+"            // `on:{Eventname}`.\n"
 
 #: src/view/01_basic_component.md:188
 msgid ""
 "// we're able to move `set_count` into the closure\n"
 "            // because signals are Copy and 'static\n"
 msgstr ""
+"// Nous pouvons déplacer `set_count` dans la closure\n"
+"            // car les signaux ont le Trait Copy et sont 'static\n"
 
 #: src/view/01_basic_component.md:194
 msgid ""
@@ -1044,10 +1448,13 @@ msgid ""
 "            // like a normal Rust string\n"
 "            \"Click me\""
 msgstr ""
+"// Les nœuds de texte en RSX doivent être entourés\n"
+"            // de guillemets, comme une chaîne Rust normale.\n"
+"             \"Cliquez moi\""
 
 #: src/view/01_basic_component.md:199
 msgid "\"Reactive: \""
-msgstr ""
+msgstr "\"Reactive: \""
 
 #: src/view/01_basic_component.md:200
 msgid ""
@@ -1055,24 +1462,33 @@ msgid ""
 "            // by wrapping them in curly braces\n"
 "            // if you pass in a function, it will reactively update\n"
 msgstr ""
+"// Vous pouvez insérer des expressions Rust en tant que\n"
+"            // valeurs dans le DOM en les entourant d'accolades.\n"
+"            // Si vous les passez dans une fonction, ce sera mis à\n"
+"            // jour de manière réactive.\n"
 
 #: src/view/01_basic_component.md:206
 msgid "\"Reactive shorthand: \""
-msgstr ""
+msgstr "\"Reactive shorthand: \""
 
 #: src/view/01_basic_component.md:207
 msgid "// signals are functions, so we can remove the wrapping closure\n"
 msgstr ""
+"// Les signaux sont des fonctions, nous pouvons donc supprimer\n"
+"            // la closure d'enpaquettage.\n"
 
 #: src/view/01_basic_component.md:211
 msgid "\"Not reactive: \""
-msgstr ""
+msgstr "\"Not reactive: \""
 
 #: src/view/01_basic_component.md:212
 msgid ""
 "// NOTE: if you write {count()}, this will *not* be reactive\n"
 "            // it simply gets the value of count once\n"
 msgstr ""
+"// NOTE: si vous écrivez {count()}, ce ne sera *pas* réactif,\n"
+"            // vous obtiendrez simplement la valeur du décompte une seule "
+"fois\n"
 
 #: src/view/01_basic_component.md:218 src/view/05_forms.md:340
 #: src/15_global_state.md:391
@@ -1082,17 +1498,25 @@ msgid ""
 "// Because we defined it as `fn App`, we can now use it in a\n"
 "// template as <App/>\n"
 msgstr ""
+"// Cette fonction `main` est le point d'entrée de l'application\n"
+"// Elle monte simplement notre composant dans le <body>\n"
+"// Puisque nous l'avons défini comme `fn App`, nous pouvons maintenant\n"
+"// l'utiliser comme un template de <App/>\n"
 
 #: src/view/02_dynamic_attributes.md:1
 msgid "`view`: Dynamic Classes, Styles and Attributes"
-msgstr ""
+msgstr "`view` : Classes, styles et attributs dynamiques"
 
 #: src/view/02_dynamic_attributes.md:3
+#, fuzzy
 msgid ""
 "So far we’ve seen how to use the `view` macro to create event listeners and "
 "to create dynamic text by passing a function (such as a signal) into the "
 "view."
 msgstr ""
+"Jusqu'à présent, nous avons vu comment utiliser la macro `view` pour créer "
+"des écouteurs d'événements et pour créer du texte dynamique en passant une "
+"fonction (comme un signal) à la vue."
 
 #: src/view/02_dynamic_attributes.md:6
 msgid ""
@@ -1101,20 +1525,28 @@ msgid ""
 "attributes dynamically, and we’ll introduce the concept of a **derived "
 "signal**."
 msgstr ""
+"Mais il y a, bien entendu, d'autres choses que vous pourriez mettre à jour "
+"dans votre interface utilisateur. Dans cette section, nous verrons comment "
+"mettre à jour les classes, les styles et les attributs de manière dynamique, "
+"et nous introduirons le concept de **signal dérivé**."
 
 #: src/view/02_dynamic_attributes.md:10
 msgid ""
 "Let’s start with a simple component that should be familiar: click a button "
 "to increment a counter."
 msgstr ""
+"Commençons par un composant simple qui devrait vous être familier : le clic "
+"d'un bouton pour incrémenter un compteur."
 
 #: src/view/02_dynamic_attributes.md:31
 msgid "So far, this is just the example from the last chapter."
 msgstr ""
+"Jusqu'à présent, il ne s'agit que de l'exemple que nous avons utilisé dans "
+"le dernier chapitre."
 
 #: src/view/02_dynamic_attributes.md:33
 msgid "Dynamic Classes"
-msgstr ""
+msgstr "Classes dynamiques"
 
 #: src/view/02_dynamic_attributes.md:35
 msgid ""
@@ -1122,18 +1554,23 @@ msgid ""
 "dynamically. For example, let’s say I want to add the class `red` when the "
 "count is odd. I can do this using the `class:` syntax."
 msgstr ""
+"Supposons maintenant que je veuille mettre à jour la liste des classes CSS "
+"de cet élément de manière dynamique. Par exemple, disons que je veuille "
+"ajouter la classe `red` lorsque le compte est impair. Je peux le faire en "
+"utilisant la syntaxe `class:`."
 
 #: src/view/02_dynamic_attributes.md:43
 msgid "`class:` attributes take"
-msgstr ""
+msgstr "`class:` prise des attributs"
 
 #: src/view/02_dynamic_attributes.md:45
 msgid "the class name, following the colon (`red`)"
-msgstr ""
+msgstr "le nom de la classe, après les deux points (`red`)"
 
 #: src/view/02_dynamic_attributes.md:46
 msgid "a value, which can be a `bool` or a function that returns a `bool`"
 msgstr ""
+"une valeur, qui peut être un `bool` ou une fonction qui retourne un `bool`"
 
 #: src/view/02_dynamic_attributes.md:48
 msgid ""
@@ -1141,31 +1578,42 @@ msgid ""
 "class is removed. And if the value is a function that accesses a signal, the "
 "class will reactively update when the signal changes."
 msgstr ""
+"Lorsque la valeur est `true`, la classe est ajoutée. Lorsque la valeur est "
+"`false`, la classe est supprimée. Et si la valeur est une fonction qui "
+"accède à un signal, la classe sera mise à jour de manière réactive lorsque "
+"le signal change."
 
 #: src/view/02_dynamic_attributes.md:52
 msgid ""
 "Now every time I click the button, the text should toggle between red and "
 "black as the number switches between even and odd."
 msgstr ""
+"Maintenant, chaque fois que je clique sur le bouton, le texte doit alterner "
+"entre le rouge et le noir lorsque le nombre passe de pair à impair."
 
 #: src/view/02_dynamic_attributes.md:60
+#, fuzzy
 msgid ""
 "// the class: syntax reactively updates a single class\n"
 "    // here, we'll set the `red` class when `count` is odd\n"
 msgstr ""
+"// la classe : la syntaxe met à jour de manière réactive une seule classe\n"
+"    // ici, nous activerons la classe `red` lorsque `count` sera impair\n"
 
 #: src/view/02_dynamic_attributes.md:64 src/view/02_dynamic_attributes.md:218
 #: src/view/03_components.md:85 src/view/03_components.md:175
 #: src/view/03_components.md:291 src/view/03_components.md:475
 #: src/async/10_resources.md:113
 msgid "\"Click me\""
-msgstr ""
+msgstr "\"Cliquez moi\""
 
 #: src/view/02_dynamic_attributes.md:68
 msgid ""
 "If you’re following along, make sure you go into your `index.html` and add "
 "something like this:"
 msgstr ""
+"Si vous voulez suivre cette méthode, assurez-vous d'aller dans votre `index."
+"html` et d'ajouter quelque chose comme ceci :"
 
 #: src/view/02_dynamic_attributes.md:78
 msgid ""
@@ -1174,56 +1622,64 @@ msgid ""
 "In that case, you can use a tuple syntax: `class=(\"name\", value)` still "
 "directly updates a single class."
 msgstr ""
+"Certains noms de classes CSS ne peuvent pas être analysés directement par la "
+"macro `view`, en particulier s'ils contiennent un mélange de tirets et de "
+"chiffres ou certains autres caractères. Dans ce cas, vous pouvez utiliser "
+"une syntaxe de type tuple : `class=(\"name\", value)` met à jour directement "
+"une classe unique."
 
 #: src/view/02_dynamic_attributes.md:81
 msgid "\"button-20\""
-msgstr ""
+msgstr "\"button-20\""
 
 #: src/view/02_dynamic_attributes.md:84
 msgid "Dynamic Styles"
-msgstr ""
+msgstr "Styles Dynamiques"
 
 #: src/view/02_dynamic_attributes.md:86
 msgid ""
 "Individual CSS properties can be directly updated with a similar `style:` "
 "syntax."
 msgstr ""
+"Les propriétés CSS individuelles peuvent être mises à jour directement avec "
+"une syntaxe `style:` similaire."
 
 #: src/view/02_dynamic_attributes.md:95
 msgid "// set the `style` attribute\n"
-msgstr ""
+msgstr "// définit l' attribut `style`\n"
 
 #: src/view/02_dynamic_attributes.md:96
 msgid "\"position: absolute\""
-msgstr ""
+msgstr "\"position: absolute\""
 
 #: src/view/02_dynamic_attributes.md:97
 msgid "// and toggle individual CSS properties with `style:`\n"
-msgstr ""
+msgstr "// et basculer les propriétés CSS individuelles avec `style:`\n"
 
 #: src/view/02_dynamic_attributes.md:98
 msgid "\"{}px\""
-msgstr ""
+msgstr "\"{}px\""
 
 #: src/view/02_dynamic_attributes.md:99
 msgid "\"rgb({}, {}, 100)\""
-msgstr ""
+msgstr "\"rgb({}, {}, 100)\""
 
 #: src/view/02_dynamic_attributes.md:100
 msgid "\"400px\""
-msgstr ""
+msgstr "\"400px\""
 
 #: src/view/02_dynamic_attributes.md:101
 msgid "// Set a CSS variable for stylesheet use\n"
 msgstr ""
+"// Définir une variable CSS pour l'utilisation de la feuille de style\n"
 
 #: src/view/02_dynamic_attributes.md:102
 msgid "\"--columns\""
-msgstr ""
+msgstr "\"--columns\""
 
 #: src/view/02_dynamic_attributes.md:104
 msgid "\"Click to Move\""
-msgstr ""
+msgstr "\"Cliquer pour déplacer\""
 
 #: src/view/02_dynamic_attributes.md:111
 msgid ""
@@ -1232,6 +1688,11 @@ msgid ""
 "a signal) to an attribute causes it to update its value reactively. Let’s "
 "add another element to our view:"
 msgstr ""
+"Il en va de même pour les attributs ordinaires. Le passage d'une chaîne "
+"ordinaire ou d'une valeur primitive à un attribut lui confère une valeur "
+"statique. Le passage d'une fonction (y compris un signal) à un attribut "
+"entraîne une mise à jour réactive de sa valeur. Ajoutons un autre élément à "
+"notre vue :"
 
 #: src/view/02_dynamic_attributes.md:118 src/view/02_dynamic_attributes.md:139
 #: src/view/02_dynamic_attributes.md:152 src/view/02_dynamic_attributes.md:226
@@ -1239,13 +1700,16 @@ msgstr ""
 #: src/view/03_components.md:24 src/view/03_components.md:41
 #: src/view/03_components.md:69
 msgid "\"50\""
-msgstr ""
+msgstr "\"50\""
 
 #: src/view/02_dynamic_attributes.md:119
 msgid ""
 "// signals are functions, so `value=count` and `value=move || count.get()`\n"
 "    // are interchangeable.\n"
 msgstr ""
+"// les signaux sont des fonctions, donc `value=count` et `value=move || "
+"count.get()`\n"
+"    // sont interchangeables.\n"
 
 #: src/view/02_dynamic_attributes.md:125
 msgid ""
@@ -1253,14 +1717,18 @@ msgid ""
 "be toggled, but the `value` of the `<progress>` bar will increase, which "
 "means that our progress bar will move forward."
 msgstr ""
+"Maintenant, à chaque fois que nous modifions le compteur, non seulement la "
+"`classe` du `<button>` sera modifiée, mais la `value` de la barre "
+"`<progress>` augmentera, ce qui signifie que notre barre de progression "
+"avancera."
 
 #: src/view/02_dynamic_attributes.md:129
 msgid "Derived Signals"
-msgstr ""
+msgstr "Signaux dérivés"
 
 #: src/view/02_dynamic_attributes.md:131
 msgid "Let’s go one layer deeper, just for fun."
-msgstr ""
+msgstr "Allons un peu plus loin, juste pour le plaisir."
 
 #: src/view/02_dynamic_attributes.md:133
 msgid ""
@@ -1268,34 +1736,44 @@ msgid ""
 "functions into the `view`. This means that we can easily change our progress "
 "bar. For example, suppose we want it to move twice as fast:"
 msgstr ""
+"Vous savez déjà que nous créons des interfaces réactives en passant des "
+"fonctions dans la `view`. Cela signifie que nous pouvons facilement modifier "
+"notre barre de progression. Par exemple, supposons que nous voulions qu'elle "
+"avance deux fois plus vite :"
 
 #: src/view/02_dynamic_attributes.md:144
 msgid ""
 "But imagine we want to reuse that calculation in more than one place. You "
 "can do this using a **derived signal**: a closure that accesses a signal."
 msgstr ""
+"Mais imaginons que nous voulions réutiliser ce calcul à plusieurs endroits. "
+"Vous pouvez le faire en utilisant un **signal dérivé** : une closure qui "
+"accède à un signal."
 
 #: src/view/02_dynamic_attributes.md:149
 msgid "/* insert the rest of the view */"
-msgstr ""
+msgstr "/* insère le reste de la vue */"
 
 #: src/view/02_dynamic_attributes.md:153
 msgid "// we use it once here\n"
-msgstr ""
+msgstr "// nous l'utilisons une seule fois ici\n"
 
 #: src/view/02_dynamic_attributes.md:157 src/view/02_dynamic_attributes.md:245
 msgid "\"Double Count: \""
-msgstr ""
+msgstr "\"Double comptage : \""
 
 #: src/view/02_dynamic_attributes.md:158
 msgid "// and again here\n"
-msgstr ""
+msgstr "// et encore ici\n"
 
 #: src/view/02_dynamic_attributes.md:163
 msgid ""
 "Derived signals let you create reactive computed values that can be used in "
 "multiple places in your application with minimal overhead."
 msgstr ""
+"Les signaux dérivés vous permettent de créer des valeurs calculées "
+"réactives, pouvant être utilisées dans plusieurs endroits de votre "
+"application, avec un minimum de surcharge."
 
 #: src/view/02_dynamic_attributes.md:166
 msgid ""
@@ -1305,10 +1783,17 @@ msgid ""
 "that’s fine. We’ll look at memos in a later chapter, which were designed to "
 "solve this problem for expensive calculations."
 msgstr ""
+"Note : L'utilisation d'un signal dérivé comme celui-ci signifie que le "
+"calcul s'exécute une fois par changement de signal (lorsque `count()` "
+"change) et une fois à l'emplacement où nous accédons à `double_count`; en "
+"d'autres termes, deux fois. C'est un calcul peu coûteux, et c'est très bien "
+"ainsi. Dans un chapitre ultérieur, nous examinerons les mémos qui ont été "
+"conçus pour résoudre ce genre de problème, dans lesquels nous utilisons des "
+"calculs coûteux."
 
 #: src/view/02_dynamic_attributes.md:172
 msgid "Advanced Topic: Injecting Raw HTML"
-msgstr ""
+msgstr "Sujet avancé : Injecter du HTML brut"
 
 #: src/view/02_dynamic_attributes.md:174
 msgid ""
@@ -1319,22 +1804,33 @@ msgid ""
 "or that any HTML entities are escaped, to prevent cross-site scripting (XSS) "
 "attacks."
 msgstr ""
+"La macro `view` supporte un attribut supplémentaire, `inner_html`, qui peut "
+"être utilisé pour définir directement le contenu HTML de n'importe quel "
+"élément, en effaçant tous les autres enfants que vous lui aurez donnés. "
+"Notez que cela n'échappe _pas_ le HTML que vous fournissez. Vous devez vous "
+"assurer qu'il ne contient que des données de confiance ou que toutes les "
+"entités HTML sont échappées, afin de prévenir les attaques de type cross-"
+"site scripting (XSS)."
 
 #: src/view/02_dynamic_attributes.md:181
 msgid "\"<p>This HTML will be injected.</p>\""
-msgstr ""
+msgstr "\"<p>Ce HTML sera injecté.</p>\""
 
 #: src/view/02_dynamic_attributes.md:187
 msgid ""
 "[Click here for the full `view` macros docs](https://docs.rs/leptos/latest/"
 "leptos/macro.view.html)."
 msgstr ""
+"[Cliquez ici pour la documentation complète sur les macros `view`](https://"
+"docs.rs/leptos/latest/leptos/macro.view.html)."
 
 #: src/view/02_dynamic_attributes.md:189
 msgid ""
 "[Click to open CodeSandbox.](https://codesandbox.io/p/sandbox/2-dynamic-"
 "attributes-0-5-lwdrpm?file=%2Fsrc%2Fmain.rs%3A1%2C1)"
 msgstr ""
+"[Cliquez pour ouvrir le CodeSandbox] (https://codesandbox.io/p/sandbox/2-"
+"dynamic-attributes-0-5-lwdrpm?file=%2Fsrc%2Fmain.rs%3A1%2C1)"
 
 #: src/view/02_dynamic_attributes.md:203
 msgid ""
@@ -1342,24 +1838,36 @@ msgid ""
 "    // we can use this to create reactive values that depend on the\n"
 "    // values of one or more other signals\n"
 msgstr ""
+"// un \"signal dérivé\" est une fonction qui accède à d'autres signaux\n"
+"    // nous pouvons l'utiliser pour créer des valeurs réactives qui "
+"dépendent des\n"
+"    // valeurs d'un ou plusieurs autres signaux\n"
 
 #: src/view/02_dynamic_attributes.md:214
+#, fuzzy
 msgid ""
 "// the class: syntax reactively updates a single class\n"
 "            // here, we'll set the `red` class when `count` is odd\n"
 msgstr ""
+"// la classe : la syntaxe met à jour de manière réactive une seule classe\n"
+"            // ici, nous définirons la classe `red` lorsque `count` est "
+"impair\n"
 
 #: src/view/02_dynamic_attributes.md:220
 msgid "// NOTE: self-closing tags like <br> need an explicit /\n"
 msgstr ""
+"// NOTE : les balises auto-fermantes telles que <br> nécessitent un / "
+"explicite\n"
 
 #: src/view/02_dynamic_attributes.md:223
 msgid "// We'll update this progress bar every time `count` changes\n"
 msgstr ""
+"// Nous mettrons à jour cette barre de progression à chaque fois que `count` "
+"change\n"
 
 #: src/view/02_dynamic_attributes.md:225
 msgid "// static attributes work as in HTML\n"
-msgstr ""
+msgstr "// les attributs statiques fonctionnent comme en HTML\n"
 
 #: src/view/02_dynamic_attributes.md:228
 msgid ""
@@ -1369,22 +1877,32 @@ msgid ""
 "count.get()`\n"
 "            // are interchangeable.\n"
 msgstr ""
+"// passage d'une fonction à un attribut\n"
+"            // définit cet attribut de manière réactive\n"
+"            // Les signaux sont des fonctions, donc `value=count` et "
+"`value=move || count.get()`\n"
+"            // sont interchangeables.\n"
 
 #: src/view/02_dynamic_attributes.md:236
 msgid ""
 "// This progress bar will use `double_count`\n"
 "        // so it should move twice as fast!\n"
 msgstr ""
+"// Cette barre de progression utilisera `double_count`\n"
+"        // elle devrait donc se avancer deux fois plus vite !\n"
 
 #: src/view/02_dynamic_attributes.md:240
 msgid ""
 "// derived signals are functions, so they can also\n"
 "            // reactively update the DOM\n"
 msgstr ""
+"// les signaux dérivés sont des fonctions, ils peuvent donc également\n"
+"            // mettre à jour le DOM de manière réactive\n"
 
 #: src/view/02_dynamic_attributes.md:244
+#, fuzzy
 msgid "\"Count: \""
-msgstr ""
+msgstr "\"Count: \""
 
 #: src/view/03_components.md:3
 msgid ""
@@ -1393,6 +1911,11 @@ msgid ""
 "need to break the user interface out into multiple components, so you can "
 "break your interface down into smaller, reusable, composable chunks."
 msgstr ""
+"Jusqu'à présent, nous avons construit toute notre application avec un seul "
+"composant. C'est très bien pour des exemples très petits, mais dans toute "
+"réelle application, vous aurez besoin de décomposer l'interface utilisateur "
+"en plusieurs composants, de sorte que vous puissiez décomposer votre "
+"interface en morceaux plus petits, réutilisables et composables."
 
 #: src/view/03_components.md:8
 msgid ""
@@ -1400,10 +1923,14 @@ msgid ""
 "instead of one: one that advances one tick per click, one that advances two "
 "ticks per click."
 msgstr ""
+"Reprenons notre exemple de barre de progression. Imaginez que vous vouliez "
+"deux barres de progression au lieu d'une : une qui avance d'un tick par "
+"clic, une qui avance de deux ticks par clic."
 
 #: src/view/03_components.md:12
 msgid "You _could_ do this by just creating two `<progress>` elements:"
 msgstr ""
+"Vous _pourriez_ le faire en créant simplement deux éléments `<progress>` :"
 
 #: src/view/03_components.md:30
 msgid ""
@@ -1411,25 +1938,34 @@ msgid ""
 "progress bar, you need to add this code another time. And if you want to "
 "edit anything about it, you need to edit it in triplicate."
 msgstr ""
+"Mais bien sûr, cette méthode n'est pas très évolutive. Si vous désirez "
+"ajouter une troisième barre de progression, vous devrez ajouter ce code une "
+"fois de plus. Et si vous voulez modifier quoi que ce soit, vous devrez le "
+"faire trois fois."
 
 #: src/view/03_components.md:34
 msgid "Instead, let’s create a `<ProgressBar/>` component."
-msgstr ""
+msgstr "Au lieu de cela, créons un composant `<ProgressBar/>`."
 
 #: src/view/03_components.md:42
 msgid "// hmm... where will we get this from?\n"
-msgstr ""
+msgstr "// hmm... D'où viendront-ils ?\n"
 
 #: src/view/03_components.md:49
+#, fuzzy
 msgid ""
 "There’s just one problem: `progress` is not defined. Where should it come "
 "from? When we were defining everything manually, we just used the local "
 "variable names. Now we need some way to pass an argument into the component."
 msgstr ""
+"Il y a juste un problème : `progress` n'est pas défini. D'où doit-il venir ? "
+"Lorsque nous définissions tout manuellement, nous utilisions simplement les "
+"noms des variables locales. Maintenant, nous avons besoin d'un moyen de "
+"passer un argument au composant."
 
 #: src/view/03_components.md:53
 msgid "Component Props"
-msgstr ""
+msgstr "Propriétés d'un composant"
 
 #: src/view/03_components.md:55
 msgid ""
@@ -1438,24 +1974,33 @@ msgid ""
 "are to components as attributes are to HTML elements: they let you pass "
 "additional information into the component."
 msgstr ""
+"Pour ce faire, nous utilisons les propriétés des composants, ou \"props\". "
+"Si vous avez déjà utilisé un autre framework front-end, cette idée vous est "
+"probablement familière. Fondamentalement, les propriétés sont aux composants "
+"ce que les attributs sont aux éléments HTML : elles vous permettent de "
+"passer des informations supplémentaires au composant."
 
 #: src/view/03_components.md:60
 msgid ""
 "In Leptos, you define props by giving additional arguments to the component "
 "function."
 msgstr ""
+"Dans Leptos, vous définissez des propriétés en donnant des arguments "
+"supplémentaires à la fonction du composant."
 
 #: src/view/03_components.md:70
 msgid "// now this works\n"
-msgstr ""
+msgstr "// maintenant, cela fonctionne\n"
 
 #: src/view/03_components.md:77
 msgid "Now we can use our component in the main `<App/>` component’s view."
 msgstr ""
+"Nous pouvons maintenant utiliser notre composant dans la vue principale du "
+"composant `<App/>`."
 
 #: src/view/03_components.md:87
 msgid "// now we use our component!\n"
-msgstr ""
+msgstr "// maintenant, nous utilisons notre composant !\n"
 
 #: src/view/03_components.md:93
 msgid ""
@@ -1464,16 +2009,23 @@ msgid ""
 "component because components always have `PascalCase` names. You pass the "
 "`progress` prop in as if it were an HTML element attribute. Simple."
 msgstr ""
+"L'utilisation d'un composant dans une vue ressemble beaucoup à l'utilisation "
+"d'un élément HTML. Vous remarquerez que vous pouvez facilement faire la "
+"différence entre un élément et un composant parce que les composants ont "
+"toujours des noms en `PascalCase`. Vous passez la propriété `progress` comme "
+"s'il s'agissait d'un attribut d'élément HTML. C'est simple."
 
 #: src/view/03_components.md:98
 msgid "Reactive and Static Props"
-msgstr ""
+msgstr "Propriétés réactives et statiques"
 
 #: src/view/03_components.md:100
 msgid ""
 "You’ll notice that throughout this example, `progress` takes a reactive "
 "`ReadSignal<i32>`, and not a plain `i32`. This is **very important**."
 msgstr ""
+"Vous remarquerez que dans cet exemple, `progress` prend un `ReadSignal<i32>` "
+"réactif, et non un simple `i32`. C'est **très important**."
 
 #: src/view/03_components.md:103
 msgid ""
@@ -1483,23 +2035,36 @@ msgid ""
 "if you have a component property that will change over time, like our "
 "`progress`, it should be a signal."
 msgstr ""
+"Les propriétés des composants n'ont pas de signification particulière. Un "
+"composant est simplement une fonction qui s'exécute une fois pour configurer "
+"l'interface utilisateur. La seule façon de dire à l'interface de répondre "
+"aux changements est de lui passer un type de signal. Ainsi, si vous avez une "
+"propriété qui va changer au cours du temps, comme notre `progress`, elle "
+"doit être un signal."
 
 #: src/view/03_components.md:109
 msgid "`optional` Props"
-msgstr ""
+msgstr "Propriétés `optional`"
 
 #: src/view/03_components.md:111
+#, fuzzy
 msgid ""
 "Right now the `max` setting is hard-coded. Let’s take that as a prop too. "
 "But let’s add a catch: let’s make this prop optional by annotating the "
 "particular argument to the component function with `#[prop(optional)]`."
 msgstr ""
+"Pour l'instant, le paramètre `max` est codé en dur. Utilisons-le aussi comme "
+"une propriété, mais ajoutons un piège. Rendons cette propriété optionnelle, "
+"en annotant l'argument particulier de la fonction du composant avec "
+"`#[prop(optional)]`."
 
 #: src/view/03_components.md:118
 msgid ""
 "// mark this prop optional\n"
 "    // you can specify it or not when you use <ProgressBar/>\n"
 msgstr ""
+"// marque cette propriété comme optionnelle\n"
+"    // vous pouvez le spécifier ou pas lorsque vous utilisez <ProgressBar/>\n"
 
 #: src/view/03_components.md:133
 msgid ""
@@ -1509,24 +2074,31 @@ msgid ""
 "a `u16` is going to be `0`. In the case of a progress bar, a max value of "
 "`0` is not very useful."
 msgstr ""
+"Maintenant, nous pouvons utiliser `<ProgressBar max=50 progress=count/>`, ou "
+"nous pouvons omettre `max` pour utiliser la valeur par défaut (c.-à-d., "
+"`<ProgressBar progress=count/>`). La valeur par défaut d'un `optional` est "
+"sa valeur `Default::default()`, qui pour un `u16` sera `0`. Dans le cas "
+"d'une barre de progression, une valeur maximale de `0` n'est pas très utile."
 
 #: src/view/03_components.md:138
 msgid "So let’s give it a particular default value instead."
-msgstr ""
+msgstr "Nous allons donc lui donner une valeur par défaut spécifique."
 
 #: src/view/03_components.md:140
 msgid "`default` props"
-msgstr ""
+msgstr "La propriété `default`"
 
 #: src/view/03_components.md:142
 msgid ""
 "You can specify a default value other than `Default::default()` pretty "
 "simply with `#[prop(default = ...)`."
 msgstr ""
+"Vous pouvez spécifier une valeur par défaut autre que `Default::default()` "
+"assez simplement en utilisant `#[prop(default = ...)`."
 
 #: src/view/03_components.md:161
 msgid "Generic Props"
-msgstr ""
+msgstr "Propriétés génériques"
 
 #: src/view/03_components.md:163
 msgid ""
@@ -1534,10 +2106,14 @@ msgid ""
 "one by the derived signal `double_count`. Let’s recreate that by using "
 "`double_count` as the `progress` prop on another `<ProgressBar/>`."
 msgstr ""
+"C'est très bien, mais nous avons commencé avec deux compteurs, l'un piloté "
+"par `count`, et l'autre par le signal dérivé `double_count`. Recréons cela "
+"en utilisant `double_count` comme une propriété `progress` sur une autre "
+"`<ProgressBar/>`."
 
 #: src/view/03_components.md:178
 msgid "// add a second progress bar\n"
-msgstr ""
+msgstr "// ajoute une deuxième barre de progression\n"
 
 #: src/view/03_components.md:184
 msgid ""
@@ -1546,8 +2122,14 @@ msgid ""
 "`double_count` is not `ReadSignal<i32>`. As rust-analyzer will tell you, its "
 "type is `|| -> i32`, i.e., it’s a closure that returns an `i32`."
 msgstr ""
+"Hm... cela ne compilera pas. Il devrait être assez facile de comprendre "
+"pourquoi : nous avons déclaré que la propriété `progress` prend la valeur "
+"`ReadSignal<i32>`, et `double_count` n'est pas un `ReadSignal<i32>`. Comme "
+"rust-analyzer vous le dira, son type est `|| -> i32`, c'est-à-dire que c'est "
+"une closure qui retourne un `i32`."
 
 #: src/view/03_components.md:189
+#, fuzzy
 msgid ""
 "There are a couple ways to handle this. One would be to say: “Well, I know "
 "that a `ReadSignal` is a function, and I know that a closure is a function; "
@@ -1555,18 +2137,26 @@ msgid ""
 "both these implement the trait `Fn() -> i32`. So you could use a generic "
 "component:"
 msgstr ""
+"Il y a plusieurs façons de traiter cela. La première serait de dire : \"Je "
+"sais qu'un `ReadSignal` est une fonction, et je sais qu'une closure est une "
+"fonction; peut-être pourrais-je utiliser n'importe quelle fonction ?\". Si "
+"vous êtes un expert, vous savez que ces deux fonctions implémentent le trait "
+"`Fn() -> i32`. Vous pouvez donc utiliser un composant générique :"
 
 #: src/view/03_components.md:213
 msgid ""
 "This is a perfectly reasonable way to write this component: `progress` now "
 "takes any value that implements this `Fn()` trait."
 msgstr ""
+"C'est une façon parfaitement raisonnable d'écrire ce composant : `progress` "
+"prend maintenant n'importe quelle valeur qui implémente le trait `Fn()`."
 
 #: src/view/03_components.md:216
 msgid "This generic can also be specified inline:"
-msgstr ""
+msgstr "Ce générique peut également être spécifié en ligne :"
 
 #: src/view/03_components.md:233
+#, fuzzy
 msgid ""
 "Note that generic component props _can’t_ be specified with an `impl` yet "
 "(`progress: impl Fn() -> i32 + 'static,`), in part because they’re actually "
@@ -1574,8 +2164,15 @@ msgid ""
 "`impl` types. The `#[component]` macro may be further improved in the future "
 "to allow inline `impl` generic props."
 msgstr ""
+"Notez que les propriétés des composants génériques _ne peuvent pas_ encore "
+"être spécifiés avec `impl` (`progress : impl Fn() -> i32 + 'static,`), c'est "
+"en partie parce qu'ils sont utilisés pour générer une `struct "
+"ProgressBarProps`, et que les champs de la structure ne peuvent pas être de "
+"type `impl`. La macro `#[component]` pourra être améliorée dans le futur "
+"pour autoriser les éléments génériques `impl` inline."
 
 #: src/view/03_components.md:235
+#, fuzzy
 msgid ""
 "Generics need to be used somewhere in the component props. This is because "
 "props are built into a struct, so all generic types must be used somewhere "
@@ -1584,16 +2181,27 @@ msgid ""
 "syntax for expressing types: `<Component<T>/>` (not with the turbofish-style "
 "`<Component::<T>/>`)."
 msgstr ""
+"Les types génériques doivent être utilisés quelque part dans le composant "
+"props. En effet, les props sont construits dans une structure, donc tous les "
+"types génériques doivent être utilisés quelque part dans la structure. Ceci "
+"est souvent facilement réalisable en utilisant une propriété optionnelle "
+"`PhantomData`. Vous pouvez alors spécifier un type générique dans la vue en "
+"utilisant la syntaxe d'expression des types : `<Composant<T>/>` (pas avec le "
+"style turbofish `<Composant::<T>/>`)."
 
 #: src/view/03_components.md:252
+#, fuzzy
 msgid ""
 "Note that there are some limitations. For example, our view macro parser "
 "can’t handle nested generics like `<SizeOf<Vec<T>>/>`."
 msgstr ""
+"Notez qu'il y a quelques limitations. Par exemple, notre analyseur de macros "
+"de vues ne peut pas gérer les génériques imbriqués comme `<SizeOf<Vec<T>>/>`."
 
 #: src/view/03_components.md:254
+#, fuzzy
 msgid "`into` Props"
-msgstr ""
+msgstr "Les propriétés `into` "
 
 #: src/view/03_components.md:256
 msgid ""
@@ -1602,8 +2210,13 @@ msgid ""
 "you pass as props, which allows you to easily pass props with different "
 "values."
 msgstr ""
+"On peut l'implémenter d'une autre façon, en utilisant `#[prop(into)]`. Cet "
+"attribut appelle automatiquement `.into()` sur les valeurs que vous passez "
+"en tant que props, ceci permet de facilement passer des props avec "
+"différentes valeurs."
 
 #: src/view/03_components.md:260
+#, fuzzy
 msgid ""
 "In this case, it’s helpful to know about the [`Signal`](https://docs.rs/"
 "leptos/latest/leptos/struct.Signal.html) type. `Signal` is an enumerated "
@@ -1613,58 +2226,80 @@ msgid ""
 "latest/leptos/enum.MaybeSignal.html) type is useful when you want to be able "
 "to take either a static or reactive value."
 msgstr ""
+"Dans ce cas, il est utile de connaître le type [`Signal`](https://docs.rs/"
+"leptos/latest/leptos/struct.Signal.html). `Signal` est un type énuméré qui "
+"représente n'importe quel type de signal réactif lisible. Il peut être utile "
+"lors de la définition d'API pour des composants que vous voudrez réutiliser "
+"en passant différents types de signaux. Le type [`MaybeSignal`](https://docs."
+"rs/leptos/latest/leptos/enum.MaybeSignal.html) est utile lorsque vous voulez "
+"être capable de prendre une valeur statique ou réactive."
 
 #: src/view/03_components.md:293
 msgid "// .into() converts `ReadSignal` to `Signal`\n"
-msgstr ""
+msgstr "// .into() convertit un `ReadSignal` en `Signal`\n"
 
 #: src/view/03_components.md:295
 msgid "// use `Signal::derive()` to wrap a derived signal\n"
-msgstr ""
+msgstr "// utilise `Signal::derive()` pour envelopper un signal dérivé\n"
 
 #: src/view/03_components.md:301
 msgid "Optional Generic Props"
-msgstr ""
+msgstr "Props génériques facultatives"
 
 #: src/view/03_components.md:303
 msgid ""
 "Note that you can’t specify optional generic props for a component. Let’s "
 "see what would happen if you try:"
 msgstr ""
+"Notez que vous ne pouvez pas spécifier de propriétés génériques facultatives "
+"pour un composant. Voyons ce qui se passe si vous essayez :"
 
 #: src/view/03_components.md:328
 msgid "Rust helpfully gives the error"
-msgstr ""
+msgstr "Rust donne l'erreur suivante"
 
 #: src/view/03_components.md:340
+#, fuzzy
 msgid ""
 "You can specify generics on components with a `<ProgressBar<F>/>` syntax (no "
 "turbofish in the `view` macro). Specifying the correct type here is not "
 "possible; closures and functions in general are unnameable types. The "
 "compiler can display them with a shorthand, but you can’t specify them."
 msgstr ""
+"Vous pouvez spécifier des génériques sur les composants avec une syntaxe "
+"`<ProgressBar<F>/>` (pas de turbofish dans la macro `view`). Spécifier le "
+"type correct ici n'est pas possible; les closures et les fonctions en "
+"général sont des types sans nom. Le compilateur peut les afficher avec une "
+"abréviation, mais vous ne pouvez pas les spécifier."
 
 #: src/view/03_components.md:342
 msgid ""
 "However, you can get around this by providing a concrete type using `Box<dyn "
 "_>` or `&dyn _`:"
 msgstr ""
+"Cependant, vous pouvez contourner ce problème en fournissant un type concret "
+"en utilisant `Box<dyn _>` ou `&dyn _` :"
 
 #: src/view/03_components.md:367
 msgid ""
 "Because the Rust compiler now knows the concrete type of the prop, and "
 "therefore its size in memory even in the `None` case, this compiles fine."
 msgstr ""
+"Comme le compilateur Rust connaît maintenant le type concret de la "
+"propriété, et donc sa taille en mémoire, même dans le cas de `None`, cela se "
+"compile correctement."
 
 #: src/view/03_components.md:369
 msgid ""
 "In this particular case, `&dyn Fn() -> i32` will cause lifetime issues, but "
 "in other cases, it may be a possibility."
 msgstr ""
+"Dans ce cas particulier, `&dyn Fn() -> i32` posera des problèmes de durée de "
+"vie, mais dans d'autres cas, cela peut être une possibilité."
 
 #: src/view/03_components.md:371
 msgid "Documenting Components"
-msgstr ""
+msgstr "Documentation des composants"
 
 #: src/view/03_components.md:373
 msgid ""
@@ -1673,33 +2308,47 @@ msgid ""
 "may be very important, depending on the size of your team and your app. But "
 "it’s very easy, and bears immediate fruit."
 msgstr ""
+"Il s'agit de l'une des sections les moins essentielles mais les plus "
+"importantes de cet ouvrage. Il n'est pas strictement nécessaire de "
+"documenter vos composants et leurs propriétés. Cela peut prendre beaucoup de "
+"temps, en fonction de la taille de votre équipe et de votre application. "
+"Mais c'est très facile à réaliser et cela porte immédiatement ses fruits."
 
 #: src/view/03_components.md:378
 msgid ""
 "To document a component and its props, you can simply add doc comments on "
 "the component function, and each one of the props:"
 msgstr ""
+"Pour documenter un composant et ses propriétés, il suffit d'ajouter des "
+"commentaires doc sur la fonction du composant et sur chacune de ses "
+"propriétés :"
 
 #: src/view/03_components.md:382 src/view/03_components.md:437
 msgid "/// Shows progress toward a goal.\n"
-msgstr ""
+msgstr "/// Montre la progression vers un objectif.\n"
 
 #: src/view/03_components.md:385 src/view/03_components.md:444
 msgid "/// The maximum value of the progress bar.\n"
-msgstr ""
+msgstr "/// La valeur maximale de la barre de progression.\n"
 
 #: src/view/03_components.md:388
 msgid "/// How much progress should be displayed.\n"
-msgstr ""
+msgstr "/// Le degré d'avancement doit être affiché.\n"
 
 #: src/view/03_components.md:396
+#, fuzzy
 msgid ""
 "That’s all you need to do. These behave like ordinary Rust doc comments, "
 "except that you can document individual component props, which can’t be done "
 "with Rust function arguments."
 msgstr ""
+"C'est tout ce que vous avez à faire. Ces commentaires se comportent comme "
+"des commentaires Rust doc ordinaires, sauf que vous pouvez documenter des "
+"composants individuels, ce qui ne peut pas être fait avec les arguments de "
+"fonctions Rust."
 
 #: src/view/03_components.md:400
+#, fuzzy
 msgid ""
 "This will automatically generate documentation for your component, its "
 "`Props` type, and each of the fields used to add props. It can be a little "
@@ -1707,12 +2356,18 @@ msgid ""
 "name or props and see the power of the `#[component]` macro combined with "
 "rust-analyzer here."
 msgstr ""
+"Cela générera automatiquement de la documentation pour votre composant, son "
+"type `Props`, et chacun des champs utilisés pour ajouter des props. Il peut "
+"être un peu difficile de comprendre à quel point c'est puissant jusqu'à ce "
+"que vous survoliez le nom du composant ou les props et que vous voyiez la "
+"puissance de la macro `#[component]` combinée avec rust-analyzer dans ce cas."
 
 #: src/view/03_components.md:405
 msgid "Advanced Topic: `#[component(transparent)]`"
-msgstr ""
+msgstr "Sujet avancé : `#[component(transparent)]`"
 
 #: src/view/03_components.md:407
+#, fuzzy
 msgid ""
 "All Leptos components return `-> impl IntoView`. Some, though, need to "
 "return some data directly without any additional wrapping. These can be "
@@ -1720,23 +2375,37 @@ msgid ""
 "the value they return, without the rendering system transforming them in any "
 "way."
 msgstr ""
+"Tous les composants Leptos renvoient `-> impl IntoView`. Certains, "
+"cependant, ont besoin de renvoyer des données directement sans aucune "
+"enveloppe supplémentaire. Ces composants peuvent être marqués avec "
+"`#[component(transparent)]`, auquel cas ils renvoient exactement la valeur "
+"qu'ils renvoient, sans que le système de rendu ne les transforme de quelque "
+"manière que ce soit."
 
 #: src/view/03_components.md:412
 msgid "This is mostly used in two situations:"
-msgstr ""
+msgstr "Ceci est principalement utilisé dans deux situations :"
 
 #: src/view/03_components.md:414
+#, fuzzy
 msgid ""
 "Creating wrappers around `<Suspense/>` or `<Transition/>`, which return a "
 "transparent suspense structure to integrate with SSR and hydration properly."
 msgstr ""
+"Création de wrappers autour de `<Suspense/>` ou `<Transition/>`, qui "
+"renvoient une structure de suspense transparente pour s'intégrer "
+"correctement au SSR et à l'hydratation."
 
 #: src/view/03_components.md:416
+#, fuzzy
 msgid ""
 "Refactoring `<Route/>` definitions for `leptos_router` out into separate "
 "components, because `<Route/>` is a transparent component that returns a "
 "`RouteDefinition` struct rather than a view."
 msgstr ""
+"Refactorisation des définitions `<Route/>` pour `leptos_router` dans des "
+"composants séparés, car `<Route/>` est un composant transparent qui retourne "
+"une structure `RouteDefinition` plutôt qu'une vue."
 
 #: src/view/03_components.md:420
 msgid ""
@@ -1744,12 +2413,17 @@ msgid ""
 "creating custom wrapping components that fall into one of these two "
 "categories."
 msgstr ""
+"En général, vous ne devriez pas avoir besoin d'utiliser des composants "
+"transparents, à moins de créer des composants de wrapping personnalisés "
+"entrant dans l'une de ces deux catégories."
 
 #: src/view/03_components.md:423
 msgid ""
 "[Click to open CodeSandbox.](https://codesandbox.io/p/sandbox/3-"
 "components-0-5-5vvl69?file=%2Fsrc%2Fmain.rs%3A1%2C1)"
 msgstr ""
+"[Cliquez pour ouvrir le CodeSandbox.](https://codesandbox.io/p/sandbox/3-"
+"components-0-5-5vvl69?file=%2Fsrc%2Fmain.rs%3A1%2C1)"
 
 #: src/view/03_components.md:432
 msgid ""
@@ -1758,16 +2432,26 @@ msgid ""
 "// You'll see how doc comments can be used to document components\n"
 "// and their properties.\n"
 msgstr ""
+"// L'assemblage de différents composants est la façon dont nous "
+"construisons\n"
+"// les interfaces utilisateur. Ici, nous allons définir une <ProgressBar/> "
+"réutilisable.\n"
+"// Vous verrez comment les commentaires de documentation peuvent être "
+"utilisés\n"
+"// pour documenter les composants et leurs propriétés.\n"
 
 #: src/view/03_components.md:441
 msgid ""
 "// Marks this as an optional prop. It will default to the default\n"
 "    // value of its type, i.e., 0.\n"
 msgstr ""
+"// Marque cette option comme une propriété facultative. Elle prendra par "
+"défaut la valeur\n"
+"    // par défaut de son type, c'est-à-dire 0.\n"
 
 #: src/view/03_components.md:446
 msgid "// Will run `.into()` on the value passed into the prop.\n"
-msgstr ""
+msgstr "// Exécute `.into()` sur la valeur passée dans la propriété.\n"
 
 #: src/view/03_components.md:448
 msgid ""
@@ -1776,6 +2460,10 @@ msgid ""
 "    // might want to take any kind of reactive value\n"
 "    /// How much progress should be displayed.\n"
 msgstr ""
+"// `Signal<T>` est un wrapper pour plusieurs types réactifs.\n"
+"    // Il peut être utile dans les API de composants comme celle-ci,\n"
+"    // où l'on peut vouloir prendre n'importe quelle valeur réactive.\n"
+"    /// Le niveau de progression doit être affichée.\n"
 
 #: src/view/03_components.md:478
 msgid ""
@@ -1783,18 +2471,28 @@ msgid ""
 "        // rust-analyzer support, try hovering over `ProgressBar`,\n"
 "        // `max`, or `progress` to see the docs we defined above\n"
 msgstr ""
+"// Si vous avez ouvert cette page dans un CodeSandbox ou\n"
+"        // dans un éditeur supportant rust-analyzer, essayez de survoler\n"
+"        // `ProgressBar`, `max`, ou `progress` pour voir les documentations\n"
+"        // que nous avons définies précédemment\n"
 
 #: src/view/03_components.md:482
 msgid ""
 "// Let's use the default max value on this one\n"
 "        // the default is 100, so it should move half as fast\n"
 msgstr ""
+"// Utilisons la valeur maximale par défaut pour celui-ci\n"
+"        // la valeur par défaut est 100, donc il devrait se\n"
+"       // déplacer deux fois moins vite\n"
 
 #: src/view/03_components.md:485
 msgid ""
 "// Signal::derive creates a Signal wrapper from our derived signal\n"
 "        // using double_count means it should move twice as fast\n"
 msgstr ""
+"// Signal::derive crée un wrapper Signal à partir de notre signal dérivé\n"
+"        // l'utilisation de double_count signifie qu'il devrait se déplacer\n"
+"        // deux fois plus vite\n"
 
 #: src/view/04_iteration.md:3
 msgid ""
@@ -1803,60 +2501,81 @@ msgid ""
 "Reconciling the differences between changing sets of items can also be one "
 "of the trickiest tasks for a framework to handle well."
 msgstr ""
+"Qu'il s'agisse de lister des tâches, d'afficher un tableau, ou montrer des "
+"images de produits, l'itération sur une liste d'éléments est une tâche "
+"courante dans les applications web. Le rapprochement des différences entre "
+"des ensembles d'éléments changeants peut également être l'une des tâches les "
+"plus délicates à gérer pour un framework."
 
 #: src/view/04_iteration.md:8
 msgid "Leptos supports two different patterns for iterating over items:"
 msgstr ""
+"Leptos prend en charge deux modèles différents pour les itérations "
+"d'éléments :"
 
 #: src/view/04_iteration.md:10
 msgid "For static views: `Vec<_>`"
-msgstr ""
+msgstr "Pour les vues statiques : `Vec<_>`"
 
 #: src/view/04_iteration.md:11
 msgid "For dynamic lists: `<For/>`"
-msgstr ""
+msgstr "Pour les listes dynamiques : `<For/>`"
 
 #: src/view/04_iteration.md:13
 msgid "Static Views with `Vec<_>`"
-msgstr ""
+msgstr "Les vues statiques avec `Vec<_>`"
 
 #: src/view/04_iteration.md:15
+#, fuzzy
 msgid ""
 "Sometimes you need to show an item repeatedly, but the list you’re drawing "
 "from does not often change. In this case, it’s important to know that you "
 "can insert any `Vec<IV> where IV: IntoView` into your view. In other words, "
 "if you can render `T`, you can render `Vec<T>`."
 msgstr ""
+"Il est parfois nécessaire d'afficher un élément de façon répétée, sauf que "
+"la liste à partir de laquelle vous dessinez ne change pas souvent. Dans ce "
+"cas, il est important de savoir que vous pouvez insérer n'importe quel "
+"`Vec<IV> où IV : IntoView` dans votre vue. En d'autres termes, si vous "
+"pouvez rendre `T`, vous pouvez rendre `Vec<T>`."
 
 #: src/view/04_iteration.md:23 src/view/04_iteration.md:39
 msgid "// this will just render \"012\"\n"
-msgstr ""
+msgstr "// cela affichera simplement \"012\".\n"
 
 #: src/view/04_iteration.md:25 src/view/04_iteration.md:41
 msgid "// or we can wrap them in <li>\n"
-msgstr ""
+msgstr "// ou nous pouvons les encadrer de <li>\n"
 
 #: src/view/04_iteration.md:34
 msgid ""
 "Leptos also provides a `.collect_view()` helper function that allows you to "
 "collect any iterator of `T: IntoView` into `Vec<View>`."
 msgstr ""
+"Leptos fournit également une fonction de debogage `.collect_view()` qui vous "
+"permet de collecter n'importe quel itérateur de `T : IntoView` dans un "
+"`Vec<View>`."
 
 #: src/view/04_iteration.md:50
 msgid ""
 "The fact that the _list_ is static doesn’t mean the interface needs to be "
 "static. You can render dynamic items as part of a static list."
 msgstr ""
+"Le fait que la _liste_ soit statique ne signifie pas que l'interface doive "
+"être statique. Il est possible d'intégrer des éléments dynamiques dans une "
+"liste statique."
 
 #: src/view/04_iteration.md:54
 msgid "// create a list of 5 signals\n"
-msgstr ""
+msgstr "// crée une liste de 5 signaux\n"
 
 #: src/view/04_iteration.md:57
 msgid ""
 "// each item manages a reactive view\n"
 "// but the list itself will never change\n"
 msgstr ""
+"// chaque élément gère une vue réactive\n"
+"// mais la liste elle-même ne changera jamais\n"
 
 #: src/view/04_iteration.md:79
 msgid ""
@@ -1864,31 +2583,42 @@ msgid ""
 "time it changes, this will rerender every item in the list. This is quite "
 "inefficient! Fortunately, there’s a better way."
 msgstr ""
+"Vous _pouvez_ également effectuer un rendu de `Fn() -> Vec<_>` de manière "
+"réactive. Mais notez que chaque fois qu'il changera, chaque élément de la "
+"liste sera rendu. C'est assez inefficace ! Heureusement, il existe une "
+"meilleure solution."
 
 #: src/view/04_iteration.md:83
 msgid "Dynamic Rendering with the `<For/>` Component"
-msgstr ""
+msgstr "Rendu dynamique avec le composant `<For/>`"
 
 #: src/view/04_iteration.md:85
+#, fuzzy
 msgid ""
 "The [`<For/>`](https://docs.rs/leptos/latest/leptos/fn.For.html) component "
 "is a keyed dynamic list. It takes three props:"
 msgstr ""
+"Le composant [`<For/>`](https://docs.rs/leptos/latest/leptos/fn.For.html)  "
+"est une liste dynamique à clés. Elle prend trois propriétés:"
 
 #: src/view/04_iteration.md:88
 msgid ""
 "`each`: a function (such as a signal) that returns the items `T` to be "
 "iterated over"
 msgstr ""
+"`each` : une fonction (telle qu'un signal) qui renvoie les éléments `T` à "
+"parcourir."
 
 #: src/view/04_iteration.md:89
 msgid ""
 "`key`: a key function that takes `&T` and returns a stable, unique key or ID"
 msgstr ""
+"`key` : une fonction clé qui prend `&T` et renvoie une clé ou un ID stable "
+"et unique"
 
 #: src/view/04_iteration.md:90
 msgid "`children`: renders each `T` into a view"
-msgstr ""
+msgstr "`children` : effectue le rendu de chaque `T` dans une vue"
 
 #: src/view/04_iteration.md:92
 msgid ""
@@ -1899,6 +2629,13 @@ msgid ""
 "extremely efficient updates to the list as it changes, with minimal "
 "additional work."
 msgstr ""
+"`key` est  la clé. Vous pouvez ajouter, supprimer et déplacer des éléments "
+"de la liste. Tant que la clé de chaque élément est stable dans le temps, le "
+"framework n'a pas besoin de redessiner les éléments, à moins qu'il ne "
+"s'agisse de nouveaux ajouts, et il peut très efficacement ajouter, supprimer "
+"et déplacer des éléments au fur et à mesure qu'ils changent. Cela permet des "
+"mises à jour extrêmement efficaces de la liste au fur et à mesure qu'elle "
+"change, avec un minimum de travail supplémentaire."
 
 #: src/view/04_iteration.md:98
 msgid ""
@@ -1906,22 +2643,31 @@ msgid ""
 "use an index for this purpose, as it is not stable—if you remove or move "
 "items, their indices change."
 msgstr ""
+"La création d'une bonne \"clé\" peut s'avérer un peu délicate. En général, "
+"vous ne désirez _pas_ utiliser un index pour cela, car sa valeur n'est pas "
+"stable - si vous supprimez ou déplacez des éléments, leurs index changent."
 
 #: src/view/04_iteration.md:102
+#, fuzzy
 msgid ""
 "But it’s a great idea to do something like generating a unique ID for each "
 "row as it is generated, and using that as an ID for the key function."
 msgstr ""
+"Une excellente idée est de générer un identifiant unique pour chaque ligne, "
+"au fur et à mesure qu'elle est générée, puis de l'utiliser comme identifiant "
+"pour la fonction clé."
 
 #: src/view/04_iteration.md:105
 msgid "Check out the `<DynamicList/>` component below for an example."
-msgstr ""
+msgstr "Le composant `<DynamicList/>` ci-dessous en est un exemple."
 
 #: src/view/04_iteration.md:107
 msgid ""
 "[Click to open CodeSandbox.](https://codesandbox.io/p/sandbox/4-"
 "iteration-0-5-pwdn2y?file=%2Fsrc%2Fmain.rs%3A1%2C1)"
 msgstr ""
+"[Cliquez pour ouvrir le CodeSandbox.](https://codesandbox.io/p/sandbox/4-"
+"iteration-0-5-pwdn2y?file=%2Fsrc%2Fmain.rs%3A1%2C1)"
 
 #: src/view/04_iteration.md:116
 msgid ""
@@ -1931,64 +2677,93 @@ msgid ""
 "// 1) for mostly-static lists, using Rust iterators\n"
 "// 2) for lists that grow, shrink, or move items, using <For/>\n"
 msgstr ""
+"// L'itération est une tâche très courante dans la plupart des "
+"applications.\n"
+"// Alors comment prendre une liste de données et l'ajouter dans le DOM ?\n"
+"// Cet exemple vous montre deux façons de procéder :\n"
+"// 1) pour les listes principalement statiques, en utilisant les itérateurs "
+"Rust\n"
+"// 2) pour les listes qui grandissent, diminuent ou déplacent des éléments, "
+"en utilisant <For/>.\n"
 
 #: src/view/04_iteration.md:126
+#, fuzzy
 msgid "\"Iteration\""
-msgstr ""
+msgstr "\"Itération\""
 
 #: src/view/04_iteration.md:127
+#, fuzzy
 msgid "\"Static List\""
-msgstr ""
+msgstr "\"Liste Statique\""
 
 #: src/view/04_iteration.md:128
 msgid "\"Use this pattern if the list itself is static.\""
-msgstr ""
+msgstr "\"Utilisez ce modèle si la liste elle-même est statique.\""
 
 #: src/view/04_iteration.md:130
+#, fuzzy
 msgid "\"Dynamic List\""
-msgstr ""
+msgstr "\"Liste Dynamique\""
 
 #: src/view/04_iteration.md:131
 msgid "\"Use this pattern if the rows in your list will change.\""
 msgstr ""
+"\"Utilisez ce modèle si les éléments de votre liste sont appelés à changer."
 
 #: src/view/04_iteration.md:135
 msgid ""
 "/// A list of counters, without the ability\n"
 "/// to add or remove any.\n"
 msgstr ""
+"/// Une liste de compteurs, sans la possibilité\n"
+"/// d'en ajouter ou d'en supprimer.\n"
 
 #: src/view/04_iteration.md:140
+#, fuzzy
 msgid "/// How many counters to include in this list.\n"
-msgstr ""
+msgstr "/// Combien de compteurs inclure dans cette liste.\n"
 
 #: src/view/04_iteration.md:143
+#, fuzzy
 msgid "// create counter signals that start at incrementing numbers\n"
 msgstr ""
+"// créer des signaux de compteur qui commencent par des nombres incrémentés\n"
 
 #: src/view/04_iteration.md:146
+#, fuzzy
 msgid ""
 "// when you have a list that doesn't change, you can\n"
 "    // manipulate it using ordinary Rust iterators\n"
 "    // and collect it into a Vec<_> to insert it into the DOM\n"
 msgstr ""
+"// lorsque vous avez une liste qui ne change pas, vous pouvez\n"
+"    // la manipuler en utilisant des itérateurs Rust ordinaires\n"
+"    // et la rassembler dans un Vec<_> pour l'insérer dans le DOM\n"
 
 #: src/view/04_iteration.md:163
+#, fuzzy
 msgid ""
 "// Note that if `counter_buttons` were a reactive list\n"
 "    // and its value changed, this would be very inefficient:\n"
 "    // it would rerender every row every time the list changed.\n"
 msgstr ""
+"// Notez que si `counter_buttons` était une liste réactive\n"
+"    // et que sa valeur changeait, cela ne serait pas très efficace :\n"
+"    // chaque ligne serait de nouveau rendue à chaque modification de la "
+"liste.\n"
 
 #: src/view/04_iteration.md:170
 msgid ""
 "/// A list of counters that allows you to add or\n"
 "/// remove counters.\n"
 msgstr ""
+"/// Une liste de compteurs qui vous permet d'en\n"
+"/// ajouter ou d'en supprimer.\n"
 
 #: src/view/04_iteration.md:175
+#, fuzzy
 msgid "/// The number of counters to begin with.\n"
-msgstr ""
+msgstr "/// Le nombre de compteurs avec lesquels commencer.\n"
 
 #: src/view/04_iteration.md:178
 msgid ""
