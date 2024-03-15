@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2024-02-19T14:40:50+01:00\n"
-"PO-Revision-Date: 2024-02-28 17:27+0100\n"
+"PO-Revision-Date: 2024-03-15 13:45+0100\n"
 "Last-Translator: Tuxin <tuxin@free.fr>\n"
 "Language-Team: French\n"
 "MIME-Version: 1.0\n"
@@ -2607,7 +2607,7 @@ msgid ""
 "iterated over"
 msgstr ""
 "`each` : une fonction (telle qu'un signal) qui renvoie les éléments `T` à "
-"parcourir."
+"parcourir"
 
 #: src/view/04_iteration.md:89
 msgid ""
@@ -2773,6 +2773,11 @@ msgid ""
 "    // will not be re-rendered. When the list changes, only\n"
 "    // the minimum number of changes will be made to the DOM.\n"
 msgstr ""
+"// Cette liste dynamique utilisera le composant <For/>.\n"
+"    // <For/> est une liste à clés. Cela signifie que chaque ligne\n"
+"    // a une clé définie. Lorsque la clé ne change pas, la ligne\n"
+"    // n'est pas redessinée. Lorsque la liste change, seul un nombre\n"
+"    // minimum de changements est effectué dans le DOM.\n"
 
 #: src/view/04_iteration.md:184
 msgid ""
@@ -2780,55 +2785,76 @@ msgid ""
 "    // we do this by simply incrementing the ID by one\n"
 "    // each time we create a counter\n"
 msgstr ""
+"// `next_counter_id` nous permet de générer des ID uniques\n"
+"    // pour cela, il suffit d'incrémenter l'ID d'une unité\n"
+"    // à chaque fois que nous créons un compteur\n"
 
 #: src/view/04_iteration.md:189
+#, fuzzy
 msgid ""
 "// we generate an initial list as in <StaticList/>\n"
 "    // but this time we include the ID along with the signal\n"
 msgstr ""
+"// nous générons une liste initiale comme dans <StaticList/>\n"
+"    // mais cette fois nous incluons l'ID avec le signal\n"
 
 #: src/view/04_iteration.md:195
+#, fuzzy
 msgid ""
 "// now we store that initial list in a signal\n"
 "    // this way, we'll be able to modify the list over time,\n"
 "    // adding and removing counters, and it will change reactively\n"
 msgstr ""
+"// nous stockons maintenant cette liste initiale dans un signal.\n"
+"    // de cette façon, nous pourrons modifier la liste au fil du temps, en\n"
+"    // ajoutant et en supprimant des compteurs, et elle sera changée de "
+"manière réactive.\n"
 
 #: src/view/04_iteration.md:201
 msgid "// create a signal for the new counter\n"
-msgstr ""
+msgstr "// crée un signal pour le nouveau compteur\n"
 
 #: src/view/04_iteration.md:203
 msgid "// add this counter to the list of counters\n"
-msgstr ""
+msgstr "// ajoute ce compteur à la liste des compteurs\n"
 
 #: src/view/04_iteration.md:205
+#, fuzzy
 msgid ""
 "// since `.update()` gives us `&mut T`\n"
 "            // we can just use normal Vec methods like `push`\n"
 msgstr ""
+"// puisque `.update()` nous donne `&mut T`, nous pouvons\n"
+"    // simplement utiliser des méthodes Vec standards, telle `push`\n"
 
 #: src/view/04_iteration.md:209
 msgid "// increment the ID so it's always unique\n"
-msgstr ""
+msgstr "// incrémente l'ID pour qu'il soit toujours unique\n"
 
 #: src/view/04_iteration.md:216
 msgid "\"Add Counter\""
-msgstr ""
+msgstr "\"Ajouter un compteur"
 
 #: src/view/04_iteration.md:219
 msgid ""
 "// The <For/> component is central here\n"
 "                // This allows for efficient, key list rendering\n"
 msgstr ""
+"// Le composant <For/> est central ici\n"
+"                // Cela permet un tracé efficace des listes de clés\n"
 
 #: src/view/04_iteration.md:222
+#, fuzzy
 msgid ""
 "// `each` takes any function that returns an iterator\n"
 "                    // this should usually be a signal or derived signal\n"
 "                    // if it's not reactive, just render a Vec<_> instead of "
 "<For/>\n"
 msgstr ""
+"// `each` prend n'importe quelle fonction retournant un itérateur\n"
+"                // il s'agit généralement d'un signal ou d'un signal dérivé\n"
+"                // s'il n'est pas réactif, il trace simplement un Vec<_> au "
+"lieu d'un <For/>\n"
 
 #: src/view/04_iteration.md:226
 msgid ""
@@ -2840,38 +2866,57 @@ msgid ""
 "                    // means their indices will change and they will all "
 "rerender\n"
 msgstr ""
+"// la clé doit être unique et stable pour chaque ligne\n"
+"                // l'utilisation d'un index est généralement une mauvaise "
+"idée, sauf si votre liste\n"
+"                // ne peut que croître, car le déplacement des éléments à "
+"l'intérieur de la liste\n"
+"                 // signifie que leurs indices changeront et qu'ils seront "
+"tous redessinés.\n"
 
 #: src/view/04_iteration.md:231
 msgid ""
 "// `children` receives each item from your `each` iterator\n"
 "                    // and returns a view\n"
 msgstr ""
+"// `children' reçoit chaque élément de votre itérateur `each`\n"
+"                    // et retourne une vue\n"
 
 #: src/view/04_iteration.md:248
+#, fuzzy
 msgid "\"Remove\""
-msgstr ""
+msgstr "\"Supprimer\""
 
 #: src/view/04b_iteration.md:1
 msgid "Iterating over More Complex Data with `<For/>`"
-msgstr ""
+msgstr "Itérer sur des données plus complexes avec `<For/>`"
 
 #: src/view/04b_iteration.md:3
+#, fuzzy
 msgid ""
 "This chapter goes into iteration over nested data structures in a bit more "
 "depth. It belongs here with the other chapter on iteration, but feel free to "
 "skip it and come back if you’d like to stick with simpler subjects for now."
 msgstr ""
+"Ce chapitre traite de l'itération sur des structures de données imbriquées "
+"de manière un peu plus approfondie. Il a sa place ici avec l'autre chapitre "
+"sur l'itération, mais n'hésitez pas à le sauter, pour  y revenir plus tard "
+"si vous souhaitez vous en tenir à des sujets plus simples pour l'instant."
 
 #: src/view/04b_iteration.md:8 src/interlude_projecting_children.md:5
 msgid "The Problem"
-msgstr ""
+msgstr "Le Problème"
 
 #: src/view/04b_iteration.md:10
+#, fuzzy
 msgid ""
 "I just said that the framework does not rerender any of the items in one of "
 "the rows, unless the key has changed. This probably makes sense at first, "
 "but it can easily trip you up."
 msgstr ""
+"Je viens de dire que le framework ne rafraîchit pas les éléments d'une des "
+"lignes, à moins que la clé n'ait changé. C'est probablement logique à "
+"première vue, mais cela peut facilement vous tromper."
 
 #: src/view/04b_iteration.md:14
 msgid ""
@@ -2879,53 +2924,61 @@ msgid ""
 "structure. Imagine, for example, that the items come from some JSON array of "
 "keys and values:"
 msgstr ""
+"Considérons un exemple dans lequel chacun des éléments de notre ligne est "
+"une structure de données. Imaginons, par exemple, que les éléments "
+"proviennent d'un tableau JSON de clés et de valeurs :"
 
 #: src/view/04b_iteration.md:25
 msgid ""
 "Let’s define a simple component that will iterate over the rows and display "
 "each one:"
 msgstr ""
+"Définissons un composant simple qui parcourra les lignes et affichera "
+"chacune d'entre elles :"
 
 #: src/view/04b_iteration.md:30 src/view/04b_iteration.md:156
 msgid "// start with a set of three rows\n"
-msgstr ""
+msgstr "// on commence par un ensemble de trois lignes\n"
 
 #: src/view/04b_iteration.md:33 src/view/04b_iteration.md:159
 #: src/view/builder.md:32
 msgid "\"foo\""
-msgstr ""
+msgstr "\"foo\""
 
 #: src/view/04b_iteration.md:37 src/view/04b_iteration.md:163
 msgid "\"bar\""
-msgstr ""
+msgstr "\"bar\""
 
 #: src/view/04b_iteration.md:41 src/view/04b_iteration.md:167
 msgid "\"baz\""
-msgstr ""
+msgstr "\"baz\""
 
 #: src/view/04b_iteration.md:46 src/view/04b_iteration.md:172
 msgid ""
 "// when we click, update each row,\n"
 "\t\t// doubling its value\n"
 msgstr ""
+"// lorsque nous cliquons, nous mettons à jour chaque ligne,\n"
+"\t\t// en doublant sa valeur\n"
 
 #: src/view/04b_iteration.md:54 src/view/04b_iteration.md:180
 msgid "// log the new value of the signal\n"
-msgstr ""
+msgstr "// donne la nouvelle valeur du signal\n"
 
 #: src/view/04b_iteration.md:55 src/view/04b_iteration.md:181
 msgid "\"{:?}\""
-msgstr ""
+msgstr "\"{:?}\""
 
 #: src/view/04b_iteration.md:57 src/view/04b_iteration.md:183
 msgid "\"Update Values\""
-msgstr ""
+msgstr "\"Mettre à jour les valeurs\""
 
 #: src/view/04b_iteration.md:59 src/view/04b_iteration.md:185
 msgid "// iterate over the rows and display each value\n"
-msgstr ""
+msgstr "// itére les lignes et affiche chaque valeur\n"
 
 #: src/view/04b_iteration.md:71
+#, fuzzy
 msgid ""
 "Note the `let:child` syntax here. In the previous chapter we introduced "
 "`<For/>` with a `children` prop. We can actually create this value directly "
@@ -2933,23 +2986,34 @@ msgid ""
 "`view` macro: the `let:child` combined with `<p>{child.value}</p>` above is "
 "the equivalent of"
 msgstr ""
+"Notez la syntaxe `let:child`. Dans le chapitre précédent, nous avons "
+"présenté `<For/>` avec une propriété `children`. Nous pouvons en fait créer "
+"cette valeur directement dans les enfants du composant `<For/>`, sans sortir "
+"de la macro `view` : le `let:child` combiné avec `<p>{child.value}</p>` ci-"
+"dessus est l'équivalent de"
 
 #: src/view/04b_iteration.md:80
+#, fuzzy
 msgid ""
 "When you click the `Update Values` button... nothing happens. Or rather: the "
 "signal is updated, the new value is logged, but the `{child.value}` for each "
 "row doesn’t update."
 msgstr ""
+"Lorsque vous cliquez sur le bouton `Mettre à jour les valeurs`... rien ne se "
+"passe. Ou plutôt : le signal est mis à jour, la nouvelle valeur est "
+"enregistrée, mais le `{child.value}` de chaque ligne n'est pas mis à jour."
 
 #: src/view/04b_iteration.md:84
 msgid ""
 "Let’s see: is that because we forgot to add a closure to make it reactive? "
 "Let’s try `{move || child.value}`."
 msgstr ""
+"Voyons voir : est-ce parce que nous avons oublié d'ajouter une closure pour "
+"la rendre réactive ? Essayons `{move || child.value}`."
 
 #: src/view/04b_iteration.md:87
 msgid "...Nope. Still nothing."
-msgstr ""
+msgstr "... Non. Toujours rien."
 
 #: src/view/04b_iteration.md:89
 msgid ""
@@ -2960,29 +3024,41 @@ msgid ""
 "This means that even if we wrap a closure around it, the value in this row "
 "will never update."
 msgstr ""
+"Voici le problème : comme je l'ai dit, chaque ligne n'est restituée que "
+"lorsque la clé change. Nous avons mis à jour la valeur pour chaque ligne, "
+"mais pas la clé pour aucune des lignes, donc rien n'a été rafraîchi. Et si "
+"vous regardez le type de `child.value`, c'est un simple `i32`, pas un "
+"`ReadSignal<i32>` réactif ou quelque chose comme ça. Cela signifie que même "
+"si nous la plaçons dans une closure, la valeur de cette ligne ne sera jamais "
+"mise à jour."
 
 #: src/view/04b_iteration.md:95
 msgid "We have three possible solutions:"
-msgstr ""
+msgstr "Trois solutions s'offrent à nous :"
 
 #: src/view/04b_iteration.md:97
+#, fuzzy
 msgid ""
 "change the `key` so that it always updates when the data structure changes"
 msgstr ""
+"modifier `key` de façon à ce qu'elle soit toujours mise à jour lorsque la "
+"structure de données change"
 
 #: src/view/04b_iteration.md:98
 msgid "change the `value` so that it’s reactive"
-msgstr ""
+msgstr "changer `value` pour qu'elle soit réactive"
 
 #: src/view/04b_iteration.md:99
 msgid ""
 "take a reactive slice of the data structure instead of using each row "
 "directly"
 msgstr ""
+"prendre une partie réactive de la structure de données au lieu d'utiliser "
+"chaque ligne directement"
 
 #: src/view/04b_iteration.md:101
 msgid "Option 1: Change the Key"
-msgstr ""
+msgstr "Option 1: Change la clé"
 
 #: src/view/04b_iteration.md:103
 msgid ""
@@ -2990,6 +3066,9 @@ msgid ""
 "rerender, because the key didn’t change. So: why not just force the key to "
 "change?"
 msgstr ""
+"Chaque ligne n'est restituée que lorsque la clé change. Nos lignes ci-dessus "
+"n'ont pas été à nouveau affichées, car la clé n'a pas changé. Alors : "
+"pourquoi ne pas forcer le changement de la clé ?"
 
 #: src/view/04b_iteration.md:116
 msgid ""
@@ -2997,25 +3076,34 @@ msgid ""
 "whenever the value of a row changes, `<For/>` will treat it as if it’s an "
 "entirely new row, and replace the previous one."
 msgstr ""
+"Maintenant, nous incluons à la fois la clé et la valeur dans `key`. Cela "
+"signifie qu'à chaque fois que la valeur d'une ligne change, `<For/>` la "
+"traitera comme s'il s'agissait d'une toute nouvelle ligne, et remplacera la "
+"précédente."
 
 #: src/view/04b_iteration.md:120 src/view/04b_iteration.md:212
 #: src/view/04b_iteration.md:262
 msgid "Pros"
-msgstr ""
+msgstr "Avantages"
 
 #: src/view/04b_iteration.md:122
+#, fuzzy
 msgid ""
 "This is very easy. We can make it even easier by deriving `PartialEq`, `Eq`, "
 "and `Hash` on `DatabaseEntry`, in which case we could just `key=|state| "
 "state.clone()`."
 msgstr ""
+"C'est très simple. Nous pouvons rendre cela encore plus facile en dérivant "
+"`PartialEq`, `Eq`, et `Hash` sur `DatabaseEntry`, auquel cas nous pourrions "
+"simplement `key=|state| state.clone()`."
 
 #: src/view/04b_iteration.md:125 src/view/04b_iteration.md:218
 #: src/view/04b_iteration.md:267
 msgid "Cons"
-msgstr ""
+msgstr "Inconvénients"
 
 #: src/view/04b_iteration.md:127
+#, fuzzy
 msgid ""
 "**This is the least efficient of the three options.** Every time the value "
 "of a row changes, it throws out the previous `<p>` element and replaces it "
@@ -3024,6 +3112,12 @@ msgid ""
 "change, and this is expensive in proportion to how complex the UI of the row "
 "is."
 msgstr ""
+"**C'est la moins efficace des trois options.** Chaque fois que la valeur "
+"d'une ligne change, l'élément `<p>` précédent est supprimé et remplacé par "
+"un élément entièrement nouveau. Plutôt que d'effectuer une mise à jour fine "
+"du nœud de texte, en d'autres termes, il s'agit en fait de recréer la ligne "
+"entière à chaque changement, ce qui est coûteux par rapport à la complexité "
+"de l'interface utilisateur de la ligne."
 
 #: src/view/04b_iteration.md:133
 msgid ""
@@ -3031,16 +3125,21 @@ msgid ""
 ">` can hold onto a copy of the key. For more complex structures, this can "
 "become a bad idea fast!"
 msgstr ""
+"Vous remarquerez que nous clonons également toute la structure de données "
+"afin que `<For/>` puisse conserver une copie de la clé. Pour des structures "
+"plus complexes, cela peut vite devenir une mauvaise idée !"
 
 #: src/view/04b_iteration.md:136
 msgid "Option 2: Nested Signals"
-msgstr ""
+msgstr "Option 2 : Signaux imbriqués"
 
 #: src/view/04b_iteration.md:138
 msgid ""
 "If we do want that fine-grained reactivity for the value, one option is to "
 "wrap the `value` of each row in a signal."
 msgstr ""
+"Si nous voulons une réactivité fine pour la valeur, une option est "
+"d'envelopper la `valeur` de chaque ligne dans un signal."
 
 #: src/view/04b_iteration.md:149
 msgid ""
@@ -3048,6 +3147,10 @@ msgid ""
 "in one object. I’m using it here because it’s a little easier to store in a "
 "struct than separate getters and setters."
 msgstr ""
+"`RwSignal<_>` est un \"signal de lecture-écriture\", qui combine le getter "
+"et le setter en un seul objet. Je l'utilise ici parce qu'il est un peu plus "
+"facile de le stocker dans une structure que de séparer les getters et les "
+"setters."
 
 #: src/view/04b_iteration.md:197
 msgid ""
@@ -3057,6 +3160,11 @@ msgid ""
 "value}` works, as signals do keep their reactivity if you pass them into the "
 "view."
 msgstr ""
+"Cette version fonctionne ! Et si vous regardez dans l'inspecteur du DOM de "
+"votre navigateur, vous verrez que contrairement à la version précédente, "
+"dans cette version, seuls les nœuds de texte individuels sont mis à jour. "
+"Passer le signal directement à `{child.value}` fonctionne, car les signaux "
+"conservent leur réactivité si vous les passez à la vue."
 
 #: src/view/04b_iteration.md:202
 msgid ""
@@ -3066,6 +3174,12 @@ msgid ""
 "signals maintain their own state, we don’t actually need to update the "
 "`data` signal at all, so the immutable `.with()` is fine here."
 msgstr ""
+"Notez que j'ai changé le `set_data.update()` en un `data.with()`. `.with()` "
+"est la façon d'accéder à la valeur d'un signal sans clonage. Dans ce cas, "
+"nous ne mettons à jour que les valeurs internes, pas la liste des valeurs : "
+"puisque les signaux maintiennent leur propre état, nous n'avons pas du tout "
+"besoin de mettre à jour le signal `data`, donc le `.with()` immuable est "
+"parfait ici."
 
 #: src/view/04b_iteration.md:208
 msgid ""
@@ -3074,24 +3188,38 @@ msgid ""
 "iterator. But the `<For/>` is useful if we want to add or remove rows in the "
 "future."
 msgstr ""
+"En fait, cette version ne met pas à jour `data`, donc le `<For/>` est "
+"essentiellement une liste statique comme dans le dernier chapitre, et ceci "
+"pourrait être un simple itérateur. Mais le `<For/>` est utile si nous "
+"voulons ajouter ou supprimer des lignes dans le futur."
 
 #: src/view/04b_iteration.md:214
+#, fuzzy
 msgid ""
 "This is the most efficient option, and fits directly with the rest of the "
 "mental model of the framework: values that change over time are wrapped in "
 "signals so the interface can respond to them."
 msgstr ""
+"Il s'agit de l'option la plus efficace, qui s'inscrit directement dans le "
+"reste du modèle mental du framework : les valeurs qui changent au fil du "
+"temps sont enveloppées dans des signaux afin que l'interface puisse y "
+"répondre."
 
 #: src/view/04b_iteration.md:220
+#, fuzzy
 msgid ""
 "Nested reactivity can be cumbersome if you’re receiving data from an API or "
 "another data source you don’t control, and you don’t want to create a "
 "different struct wrapping each field in a signal."
 msgstr ""
+"La réactivité imbriquée peut être lourde à utiliser si vous recevez des "
+"données d'une API ou d'une autre source de données que vous ne contrôlez "
+"pas, et que vous ne voulez pas créer une structure différente enveloppant "
+"chaque champ dans un signal."
 
 #: src/view/04b_iteration.md:224
 msgid "Option 3: Memoized Slices"
-msgstr ""
+msgstr "Option 3 : Slices mémorisées"
 
 #: src/view/04b_iteration.md:226
 msgid ""
@@ -3099,32 +3227,43 @@ msgid ""
 "latest/leptos/fn.create_memo.html), which creates a derived computation that "
 "only triggers a reactive update when its value has changed."
 msgstr ""
+"Leptos fournit une primitive appelée [`create_memo`] (https://docs.rs/leptos/"
+"latest/leptos/fn.create_memo.html), qui crée un calcul dérivé qui ne "
+"déclenche une mise à jour réactive que lorsque sa valeur a changé."
 
 #: src/view/04b_iteration.md:230
 msgid ""
 "This allows you to create reactive values for subfields of a larger data "
 "structure, without needing to wrap the fields of that structure in signals."
 msgstr ""
+"Cela vous permet de créer des valeurs réactives pour des sous-champs d'une "
+"structure de données plus large, sans devoir envelopper les champs de cette "
+"structure dans des signaux."
 
 #: src/view/04b_iteration.md:233
 msgid ""
 "Most of the application can remain the same as the initial (broken) version, "
 "but the `<For/>` will be updated to this:"
 msgstr ""
+"La majeure partie de l'application peut rester identique à la version "
+"initiale (cassée), mais le `<For/>` sera mis à jour en conséquence :"
 
 #: src/view/04b_iteration.md:251
 msgid "You’ll notice a few differences here:"
-msgstr ""
+msgstr "Vous remarquerez quelques différences :"
 
 #: src/view/04b_iteration.md:253
 msgid "we convert the `data` signal into an enumerated iterator"
-msgstr ""
+msgstr "nous convertissons le signal `data` en un itérateur énuméré"
 
 #: src/view/04b_iteration.md:254
+#, fuzzy
 msgid ""
 "we use the `children` prop explicitly, to make it easier to run some non-"
 "`view` code"
 msgstr ""
+"nous utilisons la propriété `children` explicitement, pour faciliter "
+"l'exécution de code non-`view`."
 
 #: src/view/04b_iteration.md:255
 msgid ""
@@ -3132,20 +3271,31 @@ msgid ""
 "doesn’t actually use the `child` being passed into each row. Instead, it "
 "uses the index and reaches back into the original `data` to get the value."
 msgstr ""
+"nous définissons un mémo `value` et l'utilisons dans la vue. Ce champ "
+"`value` n'utilise pas réellement le `child` qui est passé à chaque ligne. Au "
+"lieu de cela, il utilise l'index et utilise le `data` original pour obtenir "
+"la valeur."
 
 #: src/view/04b_iteration.md:259
 msgid ""
 "Every time `data` changes, now, each memo will be recalculated. If its value "
 "has changed, it will update its text node, without rerendering the whole row."
 msgstr ""
+"Maintenant, chaque fois que `data` change, chaque mémo est recalculé. Si sa "
+"valeur a changé, il mettra à jour son nœud de texte, sans avoir à redessiner "
+"toute la ligne."
 
 #: src/view/04b_iteration.md:264
+#, fuzzy
 msgid ""
 "We get the same fine-grained reactivity of the signal-wrapped version, "
 "without needing to wrap the data in signals."
 msgstr ""
+"Nous obtenons la même réactivité fine que la version enveloppée de signaux, "
+"sans avoir besoin d'envelopper les données dans des signaux."
 
 #: src/view/04b_iteration.md:269
+#, fuzzy
 msgid ""
 "It’s a bit more complex to set up this memo-per-row inside the `<For/>` loop "
 "rather than using nested signals. For example, you’ll notice that we have to "
@@ -3156,6 +3306,15 @@ msgid ""
 "execution for multiple reactive values that depend on the same signal isn’t "
 "guaranteed.)"
 msgstr ""
+"Il est un peu plus complexe de mettre en place ce mémo par rangée à "
+"l'intérieur de la boucle `<For/>`, plutôt que d'utiliser des signaux "
+"imbriqués. Par exemple, vous remarquerez que nous devons nous prémunir "
+"contre la possibilité que `data[index]` panique en utilisant `data."
+"get(index)`. En effet, ce memo peut être déclenché pour être ré-exécuté une "
+"fois, juste après que la ligne ait été supprimée. (Ceci parce que le mémo "
+"pour chaque ligne et le `<For/>` en entier dépendent tous deux du même "
+"signal `data`, et l'ordre d'exécution pour de multiples valeurs réactives "
+"qui dépendent du même signal n'est pas garanti)."
 
 #: src/view/04b_iteration.md:276
 msgid ""
@@ -3163,6 +3322,10 @@ msgid ""
 "calculation does need to re-run to check the value every time, so nested "
 "reactive signals will still be more efficient for pinpoint updates here."
 msgstr ""
+"Notez également que si les mémos mémorisent leurs changements réactifs, le "
+"même calcul doit être exécuté à nouveau pour vérifier la valeur à chaque "
+"fois, de sorte que les signaux réactifs imbriqués seront toujours plus "
+"efficaces pour des mises à jour précises."
 
 #: src/view/05_forms.md:3
 msgid ""
@@ -3171,10 +3334,15 @@ msgid ""
 "recognize if you’re familiar with React, SolidJS, or a similar framework: "
 "using **controlled** or **uncontrolled** inputs."
 msgstr ""
+"Les formulaires et les entrées de formulaires sont une partie importante des "
+"applications interactives. Il existe deux modèles de base pour interagir "
+"avec les entrées dans Leptos, que vous reconnaîtrez peut-être si vous êtes "
+"familier de React, SolidJS ou d'un framework similaire : l'utilisation "
+"d'entrées **contrôlées** ou **non contrôlées**."
 
 #: src/view/05_forms.md:8
 msgid "Controlled Inputs"
-msgstr ""
+msgstr "Entrées contrôlées"
 
 #: src/view/05_forms.md:10
 msgid ""
